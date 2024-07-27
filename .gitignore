@@ -1,0 +1,31 @@
+# Unity generated
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+
+# Compiled source files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Compiled output
+dist/
+tmp/
+out-tsc/
+bazel-out/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Editor files
+*.sublime-project
+*.sublime-workspace
+*.vscode

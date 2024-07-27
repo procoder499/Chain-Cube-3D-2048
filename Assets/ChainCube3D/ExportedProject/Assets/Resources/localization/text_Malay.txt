@@ -1,0 +1,598 @@
+[
+    {
+        "id": "ADS_WINDOW_CAPTION",
+        "text": "Bosan dengan iklan? Nyahaktifkan mereka selama-lamanya, sekarang!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_CAPTION",
+        "text": "Kiub dibuat:"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_1",
+        "text": "Hebat! Sekarang cuba dapatkan 4096!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_2",
+        "text": "Wowza! Bagaimana dengan 8192?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_3",
+        "text": "Anda tidak berputus asa, kan? Walaupun anda tidak akan berjaya menghasilkan 16384!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_4",
+        "text": "Tahniah! Hanya 1% orang yang dapat mencapai tahap ini!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_5",
+        "text": "Anda adalah wira baru saya!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_6",
+        "text": "Adakah anda pasti tidak menipu?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_7",
+        "text": "Mustahil! Adakah anda robot?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_8",
+        "text": "Tahniah! Hanya 1% pemain yang dapat mencapainya!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_MAX",
+        "text": "Anda telah runtuh dua kuib maksimum!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_OK_BUTTON",
+        "text": "Hebat!"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_CAPTION",
+        "text": "Kiub dibuat:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD",
+        "text": "Ganjaran anda:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD_BUTTON",
+        "text": "Tuntut"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_SKIP_AD_BUTTON",
+        "text": "Tidak mengapa"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_CAPTION",
+        "text": "Tonton iklan dan dapatkan:"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_OK_BUTTON",
+        "text": "Dapatkan barang!"
+    },
+    {
+        "id": "INGAME_BEST_SCORE",
+        "text": "Terbaik: {nilai}"
+    },
+    {
+        "id": "MOVE_TO_AIM",
+        "text": "Bergerak untuk sasarkan"
+    },
+    {
+        "id": "MUSIC_CHECKBOX",
+        "text": "Muzik"
+    },
+    {
+        "id": "New highscore!",
+        "text": "Skor tinggi baru!"
+    },
+    {
+        "id": "OK_BTN",
+        "text": "OK"
+    },
+    {
+        "id": "RATE_WINDOW_CAPTION",
+        "text": "Adakah anda suka permainan?"
+    },
+    {
+        "id": "RATE_WINDOW_HINT",
+        "text": "Sila pilih beberapa bintang"
+    },
+    {
+        "id": "RATE_WINDOW_QUESTION",
+        "text": "Kami akan gembira jika anda menilai kami!"
+    },
+    {
+        "id": "RATE_WINDOW_RATE_BUTTON",
+        "text": "Nilaikan kami!"
+    },
+    {
+        "id": "REMOVE_ADS_WINDOW_BUTTON",
+        "text": "Keluarkan iklan"
+    },
+    {
+        "id": "RESTART_LEVEL_BTN",
+        "text": "Mulakan semula tahap"
+    },
+    {
+        "id": "RESTORE_PURCHASES",
+        "text": "Pulihkan pembelian"
+    },
+    {
+        "id": "SOUND_CHECKBOX",
+        "text": "Bunyi"
+    },
+    {
+        "id": "TAP_TO_SHOOT",
+        "text": "Ketik untuk menembak"
+    },
+    {
+        "id": "VIBRATION_CHECKBOX",
+        "text": "Getaran"
+    },
+    {
+        "id": "WIN_WINDOW_BEST_SCORE",
+        "text": "Terbaik: {nilai}"
+    },
+    {
+        "id": "WIN_WINDOW_CAPTION",
+        "text": "Tahniah!"
+    },
+    {
+        "id": "WIN_WINDOW_NEW_HIGHSCORE",
+        "text": "Anda mendapat skor tinggi baru!"
+    },
+    {
+        "id": "WIN_WINDOW_NEXT_LEVEL_BTN",
+        "text": "Bermain lagi"
+    },
+    {
+        "id": "WIN_WINDOW_REWARDED_VIDEO_BTN",
+        "text": "Teruskan"
+    },
+    {
+        "id": "WIN_WINDOW_SKIP_AD",
+        "text": "Tidak mengapa"
+    },
+    {
+        "id": "WIN_WINDOW_YOUR_SCORE",
+        "text": "Skor anda: {nilai}"
+    },
+    {
+        "id": "gdpr_warning",
+        "text": "Kami telah mengemas kini syarat kami."
+    },
+    {
+        "id": "gdpr_description",
+        "text": "Dengan mengetik"
+    },
+    {
+        "id": "gdpr_terms_of_service",
+        "text": "Terma Perkhidmatan"
+    },
+    {
+        "id": "gdpr_privacy_policy",
+        "text": "Dasar privasi"
+    },
+    {
+        "id": "accept",
+        "text": "Terima"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_1",
+        "text": "Bosan dengan iklan?"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_2",
+        "text": "Nyahaktifkan mereka selama-lamanya, sekarang!"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_CAPTION",
+        "text": "Kiub Baharu!"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_REWARD",
+        "text": "Ganjaran:"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_GET_ITEM_CAPTION",
+        "text": "Tonton iklan untuk menggandakan ganjaran anda"
+    },
+    {
+        "id": "LOSE_WINDOW_REVIVE",
+        "text": ""
+    },
+    {
+        "id": "YES_BUTTON",
+        "text": "Có"
+    },
+    {
+        "id": "NO_BUTTON",
+        "text": "Không"
+    },
+    {
+        "id": "QUIT_WARNING",
+        "text": "Anda akan berhenti dari permainan. Adakah anda pasti?"
+    },
+    {
+        "id": "HIGH_SCORE",
+        "text": "Terbaik"
+    },
+    {
+        "id": "BACKGROUND",
+        "text": "Latar Belakang"
+    },
+    {
+        "id": "BOARD",
+        "text": "Papan"
+    },
+    {
+        "id": "PACK",
+        "text": "Pek"
+    },
+    {
+        "id": "APPLY",
+        "text": "Mohon"
+    },
+    {
+        "id": "PACK_UNLOCK_ALL",
+        "text": "Buka Kunci Semua!"
+    },
+    {
+        "id": "PACK_STANDARD",
+        "text": "Standard"
+    },
+    {
+        "id": "PACK_HOBBIES_PACK",
+        "text": "Pek Hobi"
+    },
+    {
+        "id": "PACK_NATURE_PACK",
+        "text": "Pek Alam Semulajadi"
+    },
+    {
+        "id": "PACK_DONUTS",
+        "text": "Donat"
+    },
+    {
+        "id": "PACK_DUCK",
+        "text": "Itik"
+    },
+    {
+        "id": "PACK_FOOTBALL",
+        "text": "Bola Sepak"
+    },
+    {
+        "id": "PACK_CHESS",
+        "text": "Catur"
+    },
+    {
+        "id": "PACK_COURT_YARD",
+        "text": "Halaman"
+    },
+    {
+        "id": "PACK_BEACH",
+        "text": "Pantai"
+    },
+    {
+        "id": "PACK_SPACE",
+        "text": "Angkasa Lepas"
+    },
+    {
+        "id": "PACK_SEALIFE",
+        "text": "Kehidupan Laut"
+    },
+    {
+        "id": "PACK_MOUNTAINS",
+        "text": "Pergunungan"
+    },
+    {
+        "id": "PACK_VIDEOGAME",
+        "text": "Permainan Video"
+    },
+    {
+        "id": "YOU_GET",
+        "text": "Anda mendapatkan:"
+    },
+    {
+        "id": "BUY_FOR",
+        "text": "BELI UNTUK"
+    },
+    {
+        "id": "UPGRADE_CUBES_HINT",
+        "text": "Semua "0" menjadi "1". Kiub "0" tiada lagi dalam permainan"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_9",
+        "text": "Cemerlang! Kiub 1M agak hampir!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_10",
+        "text": "Bagaimana? Bagaimana anda melakukannya?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_11",
+        "text": "Skor yang luar biasa! Teruskan, kalahkan!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_12",
+        "text": "Wah! Teruskan!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_13",
+        "text": "Siapa sangka!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_14",
+        "text": "Jika anda mencapai 32M, kami perlu memeriksa anda untuk perangsang"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_15",
+        "text": "Hanya sebilangan kecil sahaja yang boleh mencapai 64M, adakah anda salah seorang daripada mereka?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_16",
+        "text": "Adakah kamu seorang manusia?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_17",
+        "text": "Teruskan sahaja!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_18",
+        "text": "Bolehkah anda benar-benar mencapai 512m?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_19",
+        "text": "Kegigihan anda amat mengagumkan!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_20",
+        "text": "1b? Itu tidak boleh!!!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_21",
+        "text": "Mesti ada captcha."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_22",
+        "text": "Saya tidak tahu cara anda melakukannya, tetapi ia sempurna!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_23",
+        "text": "Cubit saya kalau boleh dapat 16b."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_24",
+        "text": "Bagaimanakah anda boleh melakukannya?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_25",
+        "text": "Jika anda meneruskan perkara ini, kami akan kehabisan kiub."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_26",
+        "text": "Saya tidak percaya seseorang membuat 64b."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_27",
+        "text": "Dan 256b memberikan anda ijazah sains."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_28",
+        "text": "Tiada siapa pernah mencapai 512b..."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_29",
+        "text": "Saya fikir anda tidak dapat dihentikan!"
+    },
+    {
+        "id": "BOOSTER_TUTORIAL_CAPTION",
+        "text": "Penggalak Baru Tersedia!"
+    },
+    {
+        "id": "BOMB",
+        "text": "Bom"
+    },
+    {
+        "id": "COLORCUBE",
+        "text": "Kiub warna"
+    },
+    {
+        "id": "BOMB_DESCRIPTION",
+        "text": "menghancurkan kiub yang disentuhnya"
+    },
+    {
+        "id": "COLORCUBE_DESCRIPTION",
+        "text": "menggandakan nilai kiub pada sesentuh"
+    },
+    {
+        "id": "BUTTON_TRY",
+        "text": "Cuba"
+    },
+    {
+        "id": "STORE",
+        "text": "Kedai"
+    },
+    {
+        "id": "BEST_PRICE",
+        "text": "Harga terbaik"
+    },
+    {
+        "id": "GET",
+        "text": "Dapatkan"
+    },
+    {
+        "id": "FREE",
+        "text": "Percuma"
+    },
+    {
+        "id": "BOOSTER_DOUBLE",
+        "text": "Penggalak Berganda"
+    },
+    {
+        "id": "BOOSTER_BOMB",
+        "text": "Penggalak Bom"
+    },
+    {
+        "id": "SUPER_COMBO",
+        "text": "Kombo Super"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE",
+        "text": "Bergegar"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE_DESCRIPTION",
+        "text": "Apabila kiub mencapai nilai tertentu, kiub tersebut dikocok."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE",
+        "text": "Menukar Bentuk"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE_DESCRIPTION",
+        "text": "Bermain dengan kiub bentuk yang diubah suai."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE",
+        "text": "Saiz Berbeza"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE_DESCRIPTION",
+        "text": "Kiub bertambah dalam saiznya sebaik sahaja nilainya menjadi lebih besar."
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER",
+        "text": "Capai"
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES",
+        "text": "Capai"
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES_UNITS",
+        "text": "pelancaran"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES",
+        "text": "Capai"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES_UNITS",
+        "text": "bercantum"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS",
+        "text": "Capai"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS_UNITS",
+        "text": "mata"
+    },
+    {
+        "id": "EVENT_YOUR_GOAL",
+        "text": "Matlamat anda:"
+    },
+    {
+        "id": "GOT_IT",
+        "text": "Faham!"
+    },
+    {
+        "id": "MISSION_COMPLETE",
+        "text": "Misi selesai!"
+    },
+    {
+        "id": "EVENT_REWARD_THEME",
+        "text": "TEMA"
+    },
+    {
+        "id": "EVENT_OVER",
+        "text": "Acara sudah tamat!"
+    },
+    {
+        "id": "EVENT_OVER_DESCRIPTION",
+        "text": "Cabaran baharu akan bermula tidak lama lagi. Sila kembali kemudian!"
+    },
+    {
+        "id": "NEW",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE",
+        "text": "Bentuk papan"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE_DESCRIPTION",
+        "text": "Main pada papan yang melengkung daripada papan biasa."
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES",
+        "text": "Kepingan beku"
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES_DESCRIPTION",
+        "text": "Pecahkan ais menjadi kepingan untuk memindahkannya di sekitar papan."
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE",
+        "text": "Halangan"
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE_DESCRIPTION",
+        "text": "Rancang lintasan penerbangan kubus untuk penggabungan yang berjaya."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SKY_JUMP",
+        "text": "Lompat ski"
+    },
+    {
+        "id": "WAIT",
+        "text": "Tunggu..."
+    },
+    {
+        "id": "NOADS_HINT",
+        "text": "Buang iklan dan dapatkan pakej percuma"
+    },
+    {
+        "id": "",
+        "text": "Beli untuk"
+    },
+    {
+        "id": "EVENT_GOAL_BOXES",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_BOXES_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "LEADERS",
+        "text": ""
+    },
+    {
+        "id": "SKINS",
+        "text": ""
+    },
+]

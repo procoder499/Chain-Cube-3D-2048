@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: a9b851f729bd74d438a06b955adcc3ab
+timeCreated: 1720775400
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Montserrat
+  - Sarabun
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 033a42988b4dd1d428588c2469bb92cb, type: 3}
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

@@ -1,0 +1,598 @@
+[
+    {
+        "id": "ADS_WINDOW_CAPTION",
+        "text": "Hast du die Werbungen satt? Dann deaktiviere sie jetzt für immer!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_CAPTION",
+        "text": "Würfel erstellt:"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_1",
+        "text": "Fantastisch! Versuche jetzt 4096 zu erhalten!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_2",
+        "text": "Wow! Wie wäre es mit 8192?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_3",
+        "text": "Du gibst nicht auf, was? Aber 16384 wirst du nie erreichen!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_4",
+        "text": "Glückwunsch! Nur 1 % aller Spieler kommen so weit!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_5",
+        "text": "Du bist mein neuer Held!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_6",
+        "text": "Bist du sicher, dass du nicht betrügst?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_7",
+        "text": "Unmöglich! Bist du ein Roboter?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_8",
+        "text": "Glückwunsch! Nur 1 % aller Spieler schaffen das!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_MAX",
+        "text": "Du hast zwei maximierte Würfel einstürzen lassen!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_OK_BUTTON",
+        "text": "Großartig!"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_CAPTION",
+        "text": "Würfel erstellt:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD",
+        "text": "Deine Belohnung:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD_BUTTON",
+        "text": "Nehmen"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_SKIP_AD_BUTTON",
+        "text": "Nein, danke"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_CAPTION",
+        "text": "Werbung ansehen und Folgendes erhalten:"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_OK_BUTTON",
+        "text": "Item nehmen!"
+    },
+    {
+        "id": "INGAME_BEST_SCORE",
+        "text": "Höchstwert: {value}"
+    },
+    {
+        "id": "MOVE_TO_AIM",
+        "text": "Zum Zielen bewegen"
+    },
+    {
+        "id": "MUSIC_CHECKBOX",
+        "text": "Musik"
+    },
+    {
+        "id": "New highscore!",
+        "text": "Neuer Höchstwert!"
+    },
+    {
+        "id": "OK_BTN",
+        "text": "OK"
+    },
+    {
+        "id": "RATE_WINDOW_CAPTION",
+        "text": "Gefällt dir das Spiel?"
+    },
+    {
+        "id": "RATE_WINDOW_HINT",
+        "text": "Bitte wähle einige Sterne aus"
+    },
+    {
+        "id": "RATE_WINDOW_QUESTION",
+        "text": "Wir würden uns über eine Bewertung freuen!"
+    },
+    {
+        "id": "RATE_WINDOW_RATE_BUTTON",
+        "text": "Bewerte uns!"
+    },
+    {
+        "id": "REMOVE_ADS_WINDOW_BUTTON",
+        "text": "Werbungen entfernen"
+    },
+    {
+        "id": "RESTART_LEVEL_BTN",
+        "text": "Level neu starten"
+    },
+    {
+        "id": "RESTORE_PURCHASES",
+        "text": "Kauf wiederherstellen"
+    },
+    {
+        "id": "SOUND_CHECKBOX",
+        "text": "Sound"
+    },
+    {
+        "id": "TAP_TO_SHOOT",
+        "text": "Zum Schießen tippen"
+    },
+    {
+        "id": "VIBRATION_CHECKBOX",
+        "text": "Vibration"
+    },
+    {
+        "id": "WIN_WINDOW_BEST_SCORE",
+        "text": "Höchstwert: {value}"
+    },
+    {
+        "id": "WIN_WINDOW_CAPTION",
+        "text": "Glückwunsch!"
+    },
+    {
+        "id": "WIN_WINDOW_NEW_HIGHSCORE",
+        "text": "Du hast einen neuen Höchstwert erzielt!"
+    },
+    {
+        "id": "WIN_WINDOW_NEXT_LEVEL_BTN",
+        "text": "Erneut spielen"
+    },
+    {
+        "id": "WIN_WINDOW_REWARDED_VIDEO_BTN",
+        "text": "Weiter"
+    },
+    {
+        "id": "WIN_WINDOW_SKIP_AD",
+        "text": "Nein, danke"
+    },
+    {
+        "id": "WIN_WINDOW_YOUR_SCORE",
+        "text": "Dein Wert: {value}"
+    },
+    {
+        "id": "gdpr_warning",
+        "text": "Unsere Nutzungsbedingungen haben sich geändert."
+    },
+    {
+        "id": "gdpr_description",
+        "text": "Durch Tippen auf Akzeptieren, akzeptierst du die"
+    },
+    {
+        "id": "gdpr_terms_of_service",
+        "text": "Nutzungsbedingungen"
+    },
+    {
+        "id": "gdpr_privacy_policy",
+        "text": "Datenschutzerklärung"
+    },
+    {
+        "id": "accept",
+        "text": "Annehmen"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_1",
+        "text": "Hast du die Werbungen satt?"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_2",
+        "text": "Dann deaktiviere sie jetzt für immer!"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_CAPTION",
+        "text": "Neuer Würfel!"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_REWARD",
+        "text": "Belohnung:"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_GET_ITEM_CAPTION",
+        "text": "Sieh dir eine Anzeige an, um deine Belohnung zu verdoppeln"
+    },
+    {
+        "id": "LOSE_WINDOW_REVIVE",
+        "text": "Fortsetzen"
+    },
+    {
+        "id": "YES_BUTTON",
+        "text": "Ja"
+    },
+    {
+        "id": "NO_BUTTON",
+        "text": "Nein"
+    },
+    {
+        "id": "QUIT_WARNING",
+        "text": "Du verlässt das Spiel. Bist du sicher?"
+    },
+    {
+        "id": "HIGH_SCORE",
+        "text": "Höchstwert"
+    },
+    {
+        "id": "BACKGROUND",
+        "text": "Hintergrund"
+    },
+    {
+        "id": "BOARD",
+        "text": "Brett"
+    },
+    {
+        "id": "PACK",
+        "text": "Paket"
+    },
+    {
+        "id": "APPLY",
+        "text": "Anwenden"
+    },
+    {
+        "id": "PACK_UNLOCK_ALL",
+        "text": "Alles freischalten!"
+    },
+    {
+        "id": "PACK_STANDARD",
+        "text": "Standard"
+    },
+    {
+        "id": "PACK_HOBBIES_PACK",
+        "text": "Hobby-Paket"
+    },
+    {
+        "id": "PACK_NATURE_PACK",
+        "text": "Natur-Paket"
+    },
+    {
+        "id": "PACK_DONUTS",
+        "text": "Donuts"
+    },
+    {
+        "id": "PACK_DUCK",
+        "text": "Enten"
+    },
+    {
+        "id": "PACK_FOOTBALL",
+        "text": "Fußball"
+    },
+    {
+        "id": "PACK_CHESS",
+        "text": "Schach"
+    },
+    {
+        "id": "PACK_COURT_YARD",
+        "text": "Platz"
+    },
+    {
+        "id": "PACK_BEACH",
+        "text": "Strand"
+    },
+    {
+        "id": "PACK_SPACE",
+        "text": "Weltraum"
+    },
+    {
+        "id": "PACK_SEALIFE",
+        "text": "Unterwasserwelt"
+    },
+    {
+        "id": "PACK_MOUNTAINS",
+        "text": "Berge"
+    },
+    {
+        "id": "PACK_VIDEOGAME",
+        "text": "Videospiel"
+    },
+    {
+        "id": "YOU_GET",
+        "text": "Du erhältst:"
+    },
+    {
+        "id": "BUY_FOR",
+        "text": "KAUFEN FÜR"
+    },
+    {
+        "id": "UPGRADE_CUBES_HINT",
+        "text": "Jede "0" wird zu einer "1". Würfel "0" wird aus dem Spiel entfernt."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_9",
+        "text": "Brillant! 1 Million Würfel ist ziemlich nah dran!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_10",
+        "text": "Was? Wie machst du das?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_11",
+        "text": "Was für eine unglaubliche Punktzahl! Los, weiter so!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_12",
+        "text": "Wow! Weiter so!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_13",
+        "text": "Wer hätte das gedacht!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_14",
+        "text": "Wenn du 32 Millionen erreichst, müssen wir dich auf Anregungsmittel untersuchen."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_15",
+        "text": "Nur wenige erreichen 64 Millionen. Wirst du zu ihnen gehören?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_16",
+        "text": "Bist du ein Mensch?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_17",
+        "text": "Einfach weitermachen!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_18",
+        "text": "Schaffst du es wirklich bis 512 m?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_19",
+        "text": "Deine Ausdauer ist bewundernswert!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_20",
+        "text": "1b? Das kann doch nicht sein!!!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_21",
+        "text": "Es muss doch ein Captcha geben."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_22",
+        "text": "Ich weiß nicht, wie du das machst, aber es ist perfekt!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_23",
+        "text": "Kneif mich, wenn du 16b bekommst."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_24",
+        "text": "Wie schaffst du das überhaupt?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_25",
+        "text": "Wenn du so weitermachst, gehen uns die Würfel aus."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_26",
+        "text": "Ich kann nicht glauben, dass jemand 64b geschafft hat."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_27",
+        "text": "Und für 256b bekommt man einen Wissenschaftsgrad."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_28",
+        "text": "Niemand hat es je auf 512b geschafft ..."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_29",
+        "text": "Ich glaube, du bist nicht zu stoppen!"
+    },
+    {
+        "id": "BOOSTER_TUTORIAL_CAPTION",
+        "text": "Neuer Booster verfügbar!"
+    },
+    {
+        "id": "BOMB",
+        "text": "Bombe"
+    },
+    {
+        "id": "COLORCUBE",
+        "text": "Farbwürfel"
+    },
+    {
+        "id": "BOMB_DESCRIPTION",
+        "text": "Zerstört den Würfel, den sie berührt."
+    },
+    {
+        "id": "COLORCUBE_DESCRIPTION",
+        "text": "Verdoppelt den Wert des Würfels bei Berührung."
+    },
+    {
+        "id": "BUTTON_TRY",
+        "text": "Probieren"
+    },
+    {
+        "id": "STORE",
+        "text": "Shop"
+    },
+    {
+        "id": "BEST_PRICE",
+        "text": "Bestpreis"
+    },
+    {
+        "id": "GET",
+        "text": "Holen"
+    },
+    {
+        "id": "FREE",
+        "text": "Gratis"
+    },
+    {
+        "id": "BOOSTER_DOUBLE",
+        "text": "Doppelbooster"
+    },
+    {
+        "id": "BOOSTER_BOMB",
+        "text": "Bombenbooster"
+    },
+    {
+        "id": "SUPER_COMBO",
+        "text": "Superkombo"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE",
+        "text": "Schütteln"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE_DESCRIPTION",
+        "text": "Wenn die Würfel bestimmte Werte erreichen, werden sie geschüttelt."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE",
+        "text": "Verschiedene Formen"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE_DESCRIPTION",
+        "text": "Spiele mit Würfeln mit anderen Formen."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE",
+        "text": "Unterschiedliche Größen"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE_DESCRIPTION",
+        "text": "Wenn die Werte höher werden, werden die Würfel größer."
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER",
+        "text": "Erreiche"
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES",
+        "text": "Erreiche"
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES_UNITS",
+        "text": "Beginnt"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES",
+        "text": "Erreiche"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES_UNITS",
+        "text": "Kombiniert"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS",
+        "text": "Erreiche"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS_UNITS",
+        "text": "Punkte"
+    },
+    {
+        "id": "EVENT_YOUR_GOAL",
+        "text": "Dein Ziel:"
+    },
+    {
+        "id": "GOT_IT",
+        "text": "Geschafft!"
+    },
+    {
+        "id": "MISSION_COMPLETE",
+        "text": "Mission abgeschlossen!"
+    },
+    {
+        "id": "EVENT_REWARD_THEME",
+        "text": "THEMATIK"
+    },
+    {
+        "id": "EVENT_OVER",
+        "text": "Das Event ist zu Ende"
+    },
+    {
+        "id": "EVENT_OVER_DESCRIPTION",
+        "text": "Bald beginnt eine neue Herausforderung. Bitte komm später wieder!"
+    },
+    {
+        "id": "NEW",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE",
+        "text": "Board-Form"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE_DESCRIPTION",
+        "text": "Spiele auf einem gebogenen Brett anstatt auf einem regulären Brett."
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES",
+        "text": "Gefrorene Würfel"
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES_DESCRIPTION",
+        "text": "Zerbrich das Eis in Würfel, um sie auf dem Spielfeld zu bewegen."
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE",
+        "text": "Hindernis"
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE_DESCRIPTION",
+        "text": "Planen Sie die Flugbahn der Würfel für erfolgreiche Verschmelzungen."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SKY_JUMP",
+        "text": "Skisprungschanze"
+    },
+    {
+        "id": "WAIT",
+        "text": "Warten Sie..."
+    },
+    {
+        "id": "NOADS_HINT",
+        "text": "Werbung entfernen und kostenloses Paket erhalten"
+    },
+    {
+        "id": "",
+        "text": "Kaufen für"
+    },
+    {
+        "id": "EVENT_GOAL_BOXES",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_BOXES_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "LEADERS",
+        "text": ""
+    },
+    {
+        "id": "SKINS",
+        "text": ""
+    },
+]

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a75e9df8cd8b4e8ac44a09f4dcc4c373, type: 3}
+  m_Name: SizeCubesLevels
+  m_EditorClassIdentifier:
+  _board: {fileID: 114638877721267563, guid: 1463a25020019dd43829c3faa509e10f, type: 2}
+  _cubePrefab: {fileID: 114878638492262272, guid: c0823deef5cb6c746917e0d3d1b3e5eb, type: 2}
+  levels:
+  - {fileID: 11400000, guid: d36212623ef039749953f5391fd17729, type: 2}
+  - {fileID: 11400000, guid: 550f23052e125cf479fd356bcf4bbebf, type: 2}
+  - {fileID: 11400000, guid: 0cd79abb8bad29e4a970f79da00767f8, type: 2}

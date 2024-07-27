@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 784be7ba4e03a1b2185c6fa53304ca9b, type: 3}
+  m_Name: EventDatabase
+  m_EditorClassIdentifier:
+  _gameModes:
+  - {fileID: 11400000, guid: a0e5531e421773c4891be0434539f14b, type: 2}
+  - {fileID: 11400000, guid: 12ed13475455788469ceb9db2a4fef1e, type: 2}
+  - {fileID: 11400000, guid: 88edc65b0a643c2468dfccd3c229e4be, type: 2}
+  - {fileID: 11400000, guid: 5567798a6e92797488f31bcd8ded2c36, type: 2}
+  - {fileID: 11400000, guid: b9dbae74161dfea499e6f45cc41b4da9, type: 2}
+  - {fileID: 11400000, guid: 162454d5dbfea4447ae811e9c121b541, type: 2}
+  _goals:
+  - {fileID: 11400000, guid: b147b2c315d3659478c77513f0d1cfbc, type: 2}
+  - {fileID: 11400000, guid: 9430164e2803c734ea108011847744ef, type: 2}
+  - {fileID: 11400000, guid: ac1ff40aae879bc4788a31c4b51e4282, type: 2}
+  - {fileID: 11400000, guid: a5a585202815abb42a60f1dc05a5de3e, type: 2}
+  _rewardsDatabase: {fileID: 11400000, guid: 6279525a75408bc439749a20f99f0647, type: 2}
+  _eventBackground: {fileID: 21300000, guid: b4c9766304992f94d82c56f7a1b4becb, type: 2}

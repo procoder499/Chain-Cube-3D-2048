@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 724f7420f42f4085981c9dd981577f8c, type: 3}
+  m_Name: 11_triangles
+  m_EditorClassIdentifier:
+  env: {fileID: 11400000, guid: 867c3a5cebc8b6541a5765eca38cb71c, type: 2}
+  isTutor: 0
+  fireForceRotation: 0
+  cubesOnLevel:
+  - Position: {x: -0.83, y: 1.648, z: 6.52}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 8
+    Pot: 3
+    CubeType: 0
+  - Position: {x: -0.8090384, y: 0.62, z: 6.527}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 4
+    Pot: 2
+    CubeType: 0
+  - Position: {x: -1.8270384, y: 0.65, z: 6.502}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 1
+    CubeType: 0
+  - Position: {x: 0.775, y: 1.648, z: 4.04}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 8
+    Pot: 3
+    CubeType: 0
+  - Position: {x: 0.7959616, y: 0.62, z: 4.047}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 4
+    Pot: 2
+    CubeType: 0
+  - Position: {x: 1.8089616, y: 0.64, z: 4.052}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 1
+    CubeType: 0
+  - Position: {x: -0.8269616, y: 1.648, z: 1.602}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 8
+    Pot: 3
+    CubeType: 0
+  - Position: {x: -0.806, y: 0.62, z: 1.609}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 4
+    Pot: 2
+    CubeType: 0
+  - Position: {x: -1.824, y: 0.65, z: 1.584}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 1
+    CubeType: 0

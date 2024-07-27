@@ -1,0 +1,598 @@
+[
+    {
+        "id": "ADS_WINDOW_CAPTION",
+        "text": "Tired of ads? Disable them forever, now!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_CAPTION",
+        "text": "Cube created:"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_1",
+        "text": "Fantastic! Now try to get 4096!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_2",
+        "text": "Wowza! How about 8192?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_3",
+        "text": "You don't give up, do you? You'll never make 16384, though!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_4",
+        "text": "Congratulations! Only 1% of people can get this far!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_5",
+        "text": "You are my new hero!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_6",
+        "text": "Are you sure you’re not cheating?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_7",
+        "text": "Impossible! Are you a robot?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_8",
+        "text": "Congratulations! Only 1% of players can achieve this!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_MAX",
+        "text": "You've collapsed two max cubes!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_OK_BUTTON",
+        "text": "Great!"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_CAPTION",
+        "text": "Cube created:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD",
+        "text": "Your reward:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD_BUTTON",
+        "text": "Claim"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_SKIP_AD_BUTTON",
+        "text": "No, thanks"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_CAPTION",
+        "text": "Watch ad and get:"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_OK_BUTTON",
+        "text": "Get item!"
+    },
+    {
+        "id": "INGAME_BEST_SCORE",
+        "text": "Best: {value}"
+    },
+    {
+        "id": "MOVE_TO_AIM",
+        "text": "Move to aim"
+    },
+    {
+        "id": "MUSIC_CHECKBOX",
+        "text": "Music"
+    },
+    {
+        "id": "New highscore!",
+        "text": "New highscore!"
+    },
+    {
+        "id": "OK_BTN",
+        "text": "OK"
+    },
+    {
+        "id": "RATE_WINDOW_CAPTION",
+        "text": "Do you like the game?"
+    },
+    {
+        "id": "RATE_WINDOW_HINT",
+        "text": "Please select some stars"
+    },
+    {
+        "id": "RATE_WINDOW_QUESTION",
+        "text": "We will be happy if you rate us!"
+    },
+    {
+        "id": "RATE_WINDOW_RATE_BUTTON",
+        "text": "Rate us!"
+    },
+    {
+        "id": "REMOVE_ADS_WINDOW_BUTTON",
+        "text": "Remove ads"
+    },
+    {
+        "id": "RESTART_LEVEL_BTN",
+        "text": "Restart level"
+    },
+    {
+        "id": "RESTORE_PURCHASES",
+        "text": "Restore purchases"
+    },
+    {
+        "id": "SOUND_CHECKBOX",
+        "text": "Sounds"
+    },
+    {
+        "id": "TAP_TO_SHOOT",
+        "text": "Tap to shoot"
+    },
+    {
+        "id": "VIBRATION_CHECKBOX",
+        "text": "Vibration"
+    },
+    {
+        "id": "WIN_WINDOW_BEST_SCORE",
+        "text": "Best: {value}"
+    },
+    {
+        "id": "WIN_WINDOW_CAPTION",
+        "text": "Congratulations!"
+    },
+    {
+        "id": "WIN_WINDOW_NEW_HIGHSCORE",
+        "text": "You've got new highscore!"
+    },
+    {
+        "id": "WIN_WINDOW_NEXT_LEVEL_BTN",
+        "text": "Play again"
+    },
+    {
+        "id": "WIN_WINDOW_REWARDED_VIDEO_BTN",
+        "text": "Continue"
+    },
+    {
+        "id": "WIN_WINDOW_SKIP_AD",
+        "text": "No, thanks"
+    },
+    {
+        "id": "WIN_WINDOW_YOUR_SCORE",
+        "text": "Your score: {value}"
+    },
+    {
+        "id": "gdpr_warning",
+        "text": "We've updated our Terms"
+    },
+    {
+        "id": "gdpr_description",
+        "text": "By tapping Accept you agree to them"
+    },
+    {
+        "id": "gdpr_terms_of_service",
+        "text": "Terms of Service"
+    },
+    {
+        "id": "gdpr_privacy_policy",
+        "text": "Privacy Policy"
+    },
+    {
+        "id": "accept",
+        "text": "Accept"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_1",
+        "text": "Tired of ads?"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_2",
+        "text": "Disable them forever, now!"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_CAPTION",
+        "text": "New Cube!"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_REWARD",
+        "text": "Reward:"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_GET_ITEM_CAPTION",
+        "text": "Watch the video to double your reward"
+    },
+    {
+        "id": "LOSE_WINDOW_REVIVE",
+        "text": "Resume"
+    },
+    {
+        "id": "YES_BUTTON",
+        "text": "Yes"
+    },
+    {
+        "id": "NO_BUTTON",
+        "text": "No"
+    },
+    {
+        "id": "QUIT_WARNING",
+        "text": "Are you sure you want to quit?"
+    },
+    {
+        "id": "HIGH_SCORE",
+        "text": "High score"
+    },
+    {
+        "id": "BACKGROUND",
+        "text": "Background"
+    },
+    {
+        "id": "BOARD",
+        "text": "Board"
+    },
+    {
+        "id": "PACK",
+        "text": "Pack"
+    },
+    {
+        "id": "APPLY",
+        "text": "Apply"
+    },
+    {
+        "id": "PACK_UNLOCK_ALL",
+        "text": "Unlock All!"
+    },
+    {
+        "id": "PACK_STANDARD",
+        "text": "Standard"
+    },
+    {
+        "id": "PACK_HOBBIES_PACK",
+        "text": "Hobbies Pack"
+    },
+    {
+        "id": "PACK_NATURE_PACK",
+        "text": "Nature Pack"
+    },
+    {
+        "id": "PACK_DONUTS",
+        "text": "Donuts"
+    },
+    {
+        "id": "PACK_DUCK",
+        "text": "Ducks"
+    },
+    {
+        "id": "PACK_FOOTBALL",
+        "text": "Football"
+    },
+    {
+        "id": "PACK_CHESS",
+        "text": "Chess"
+    },
+    {
+        "id": "PACK_COURT_YARD",
+        "text": "Court Yard"
+    },
+    {
+        "id": "PACK_BEACH",
+        "text": "Beach"
+    },
+    {
+        "id": "PACK_SPACE",
+        "text": "Space"
+    },
+    {
+        "id": "PACK_SEALIFE",
+        "text": "Sealife"
+    },
+    {
+        "id": "PACK_MOUNTAINS",
+        "text": "Mountains"
+    },
+    {
+        "id": "PACK_VIDEOGAME",
+        "text": "Videogame"
+    },
+    {
+        "id": "YOU_GET",
+        "text": "You get:"
+    },
+    {
+        "id": "BUY_FOR",
+        "text": "BUY FOR"
+    },
+    {
+        "id": "UPGRADE_CUBES_HINT",
+        "text": "All "0"s become "1"s. Cube "0" is no longer in the game"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_9",
+        "text": "Brilliant! 1M cube is pretty close!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_10",
+        "text": "How? How are you doing that?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_11",
+        "text": "What an incredible score! Go on, beat it!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_12",
+        "text": "Wow! Keep it up!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_13",
+        "text": "Who'd expect that!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_14",
+        "text": "If you reach 32M we'll have to check you for stimulants"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_15",
+        "text": "Only a few can reach 64M, are you one of them?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_16",
+        "text": "Are you human?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_17",
+        "text": "Just keep going!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_18",
+        "text": "Can you really make it to 512m?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_19",
+        "text": "Your persistence is admirable!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_20",
+        "text": "1b? That just can't be!!!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_21",
+        "text": "There has to be a captcha."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_22",
+        "text": "I don't know how you do it, but it's perfect!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_23",
+        "text": "Pinch me if you can get 16b."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_24",
+        "text": "How do you even do that?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_25",
+        "text": "If you keep this up, we'll run out of cubes."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_26",
+        "text": "I can't believe someone made 64b."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_27",
+        "text": "And 256b gets you a science degree."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_28",
+        "text": "No one's ever made it to 512b..."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_29",
+        "text": "I think you are unstoppable!"
+    },
+    {
+        "id": "BOOSTER_TUTORIAL_CAPTION",
+        "text": "New Booster Available!"
+    },
+    {
+        "id": "BOMB",
+        "text": "Bomb"
+    },
+    {
+        "id": "COLORCUBE",
+        "text": "Color cube"
+    },
+    {
+        "id": "BOMB_DESCRIPTION",
+        "text": "destroys the cubes it touches"
+    },
+    {
+        "id": "COLORCUBE_DESCRIPTION",
+        "text": "doubles the value of the cube on contact"
+    },
+    {
+        "id": "BUTTON_TRY",
+        "text": "Try it"
+    },
+    {
+        "id": "STORE",
+        "text": "store"
+    },
+    {
+        "id": "BEST_PRICE",
+        "text": "best price"
+    },
+    {
+        "id": "GET",
+        "text": "Get"
+    },
+    {
+        "id": "FREE",
+        "text": "Free"
+    },
+    {
+        "id": "BOOSTER_DOUBLE",
+        "text": "Doubling Booster"
+    },
+    {
+        "id": "BOOSTER_BOMB",
+        "text": "Bomb Booster"
+    },
+    {
+        "id": "SUPER_COMBO",
+        "text": "Super Combo"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE",
+        "text": "Shaking"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE_DESCRIPTION",
+        "text": "When the cubes reach certain values, the cubes are shuffled."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE",
+        "text": "Changing Shapes"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE_DESCRIPTION",
+        "text": "Play with cubes of modified shapes."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE",
+        "text": "Different Sizes"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE_DESCRIPTION",
+        "text": "The cubes increase in their size once the values become bigger."
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER",
+        "text": "Reach"
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES",
+        "text": "Reach"
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES_UNITS",
+        "text": "launches"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES",
+        "text": "Reach"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES_UNITS",
+        "text": "merges"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS",
+        "text": "Reach"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS_UNITS",
+        "text": "points"
+    },
+    {
+        "id": "EVENT_YOUR_GOAL",
+        "text": "Your goal:"
+    },
+    {
+        "id": "GOT_IT",
+        "text": "Got it!"
+    },
+    {
+        "id": "MISSION_COMPLETE",
+        "text": "Mission Complete!"
+    },
+    {
+        "id": "EVENT_REWARD_THEME",
+        "text": "THEME"
+    },
+    {
+        "id": "EVENT_OVER",
+        "text": "The event is over!"
+    },
+    {
+        "id": "EVENT_OVER_DESCRIPTION",
+        "text": "A new challenge will start very soon. Please come back later!"
+    },
+    {
+        "id": "NEW",
+        "text": "NEW"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE",
+        "text": "Board shape"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE_DESCRIPTION",
+        "text": "Play on a curved board instead of a regular board."
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES",
+        "text": "Frozen cubes"
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES_DESCRIPTION",
+        "text": "Break the ice into cubes to move them around the board."
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE",
+        "text": "Obstacle"
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE_DESCRIPTION",
+        "text": "Plan the flight trajectory of cubes for successful merges."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SKY_JUMP",
+        "text": "Ski jump"
+    },
+    {
+        "id": "WAIT",
+        "text": "Wait..."
+    },
+    {
+        "id": "NOADS_HINT",
+        "text": "Remove ads and get a free pack"
+    },
+    {
+        "id": "",
+        "text": "Buy for"
+    },
+    {
+        "id": "EVENT_GOAL_BOXES",
+        "text": "Reach"
+    },
+    {
+        "id": "EVENT_GOAL_BOXES_UNITS",
+        "text": "Break all the boxes"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES",
+        "text": "Boxes"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_DESCRIPTION",
+        "text": "Break the boxes"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS",
+        "text": "Boxes with numbers"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS_DESCRIPTION",
+        "text": "Break the boxes with numbers"
+    },
+    {
+        "id": "LEADERS",
+        "text": "Leaders"
+    },
+    {
+        "id": "SKINS",
+        "text": "Skins"
+    },
+]

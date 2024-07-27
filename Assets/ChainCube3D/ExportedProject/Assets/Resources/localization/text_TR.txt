@@ -1,0 +1,598 @@
+[
+    {
+        "id": "ADS_WINDOW_CAPTION",
+        "text": "Reklamlardan bıktın mı? Onlardan sonsuza dek kurtul, hemen!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_CAPTION",
+        "text": "Oluşturulan küp:"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_1",
+        "text": "Harika! 4096 yapmaya çalış!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_2",
+        "text": "Süper! 8192 yapabilir misin?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_3",
+        "text": "Pes etmeyeceksin her halde. Ama 16384'ü asla yapamaszın!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_4",
+        "text": "Tebrikler! İnsanların sadece yüzde 1'i bu kadar ilerleyebiliyor!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_5",
+        "text": "Kahramanım benim!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_6",
+        "text": "Hile yapmıyorsun değil mi?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_7",
+        "text": "İnanılmaz! Robot falan mısın sen!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_8",
+        "text": "Tebrikler! Sadece yüzde 1 oyuncu bunu başarabiliyor!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_MAX",
+        "text": "İki maks küp çökerttin!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_OK_BUTTON",
+        "text": "Muhteşem!"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_CAPTION",
+        "text": "Oluşturulan küp:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD",
+        "text": "Ödülün:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD_BUTTON",
+        "text": "Al"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_SKIP_AD_BUTTON",
+        "text": "Hayır, teşekkürler"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_CAPTION",
+        "text": "Reklam izle ve kazan:"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_OK_BUTTON",
+        "text": "Öğeyi al!"
+    },
+    {
+        "id": "INGAME_BEST_SCORE",
+        "text": "Rekor: {value}"
+    },
+    {
+        "id": "MOVE_TO_AIM",
+        "text": "Nişan almak için hareket ettir"
+    },
+    {
+        "id": "MUSIC_CHECKBOX",
+        "text": "Müzik"
+    },
+    {
+        "id": "New highscore!",
+        "text": "Yeni rekor!"
+    },
+    {
+        "id": "OK_BTN",
+        "text": "Tamam"
+    },
+    {
+        "id": "RATE_WINDOW_CAPTION",
+        "text": "Oyunu sevdin mi?"
+    },
+    {
+        "id": "RATE_WINDOW_HINT",
+        "text": "Lütfen bize biraz yıldız ver"
+    },
+    {
+        "id": "RATE_WINDOW_QUESTION",
+        "text": "Bizi değerlendirirsen çok seviniriz!"
+    },
+    {
+        "id": "RATE_WINDOW_RATE_BUTTON",
+        "text": "Bize not ver!"
+    },
+    {
+        "id": "REMOVE_ADS_WINDOW_BUTTON",
+        "text": "Reklamları kaldır"
+    },
+    {
+        "id": "RESTART_LEVEL_BTN",
+        "text": "Seviyeye tekrar başla"
+    },
+    {
+        "id": "RESTORE_PURCHASES",
+        "text": "Satın alımları yenile"
+    },
+    {
+        "id": "SOUND_CHECKBOX",
+        "text": "Ses"
+    },
+    {
+        "id": "TAP_TO_SHOOT",
+        "text": "Atmak için dokun"
+    },
+    {
+        "id": "VIBRATION_CHECKBOX",
+        "text": "Titreşim"
+    },
+    {
+        "id": "WIN_WINDOW_BEST_SCORE",
+        "text": "Rekor: {value}"
+    },
+    {
+        "id": "WIN_WINDOW_CAPTION",
+        "text": "Tebrikler!"
+    },
+    {
+        "id": "WIN_WINDOW_NEW_HIGHSCORE",
+        "text": "Yeni rekor kırdın!"
+    },
+    {
+        "id": "WIN_WINDOW_NEXT_LEVEL_BTN",
+        "text": "Tekrar oyna"
+    },
+    {
+        "id": "WIN_WINDOW_REWARDED_VIDEO_BTN",
+        "text": "Devam et"
+    },
+    {
+        "id": "WIN_WINDOW_SKIP_AD",
+        "text": "Hayır, teşekkürler"
+    },
+    {
+        "id": "WIN_WINDOW_YOUR_SCORE",
+        "text": "Puanın: {value}"
+    },
+    {
+        "id": "gdpr_warning",
+        "text": "Koşullarımız güncellendi."
+    },
+    {
+        "id": "gdpr_description",
+        "text": "Kabul Ete tıklayarak bunları kabul etmiş olursunuz"
+    },
+    {
+        "id": "gdpr_terms_of_service",
+        "text": "Kullanım Şartları"
+    },
+    {
+        "id": "gdpr_privacy_policy",
+        "text": "Gizlilik politikası"
+    },
+    {
+        "id": "accept",
+        "text": "Kabul et"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_1",
+        "text": "Reklamlardan bıktın mı?"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_2",
+        "text": "Onlardan sonsuza dek kurtul, hemen!"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_CAPTION",
+        "text": "Yeni Küp!"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_REWARD",
+        "text": "Ödül:"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_GET_ITEM_CAPTION",
+        "text": "Yeni Küp!"
+    },
+    {
+        "id": "LOSE_WINDOW_REVIVE",
+        "text": "Devam et"
+    },
+    {
+        "id": "YES_BUTTON",
+        "text": "Evet"
+    },
+    {
+        "id": "NO_BUTTON",
+        "text": "Hayır"
+    },
+    {
+        "id": "QUIT_WARNING",
+        "text": "Oyundan çıkıyorsun. Emin misin?"
+    },
+    {
+        "id": "HIGH_SCORE",
+        "text": "Rekor"
+    },
+    {
+        "id": "BACKGROUND",
+        "text": "Arka plan"
+    },
+    {
+        "id": "BOARD",
+        "text": "Pano"
+    },
+    {
+        "id": "PACK",
+        "text": "Paket"
+    },
+    {
+        "id": "APPLY",
+        "text": "Uygula"
+    },
+    {
+        "id": "PACK_UNLOCK_ALL",
+        "text": "Tümünü aç!"
+    },
+    {
+        "id": "PACK_STANDARD",
+        "text": "Standart"
+    },
+    {
+        "id": "PACK_HOBBIES_PACK",
+        "text": "Hobi Paketi"
+    },
+    {
+        "id": "PACK_NATURE_PACK",
+        "text": "Doğa Paketi"
+    },
+    {
+        "id": "PACK_DONUTS",
+        "text": "Donut"
+    },
+    {
+        "id": "PACK_DUCK",
+        "text": "Ördek"
+    },
+    {
+        "id": "PACK_FOOTBALL",
+        "text": "Futbol"
+    },
+    {
+        "id": "PACK_CHESS",
+        "text": "Satranç"
+    },
+    {
+        "id": "PACK_COURT_YARD",
+        "text": "Bahçe"
+    },
+    {
+        "id": "PACK_BEACH",
+        "text": "Plaj"
+    },
+    {
+        "id": "PACK_SPACE",
+        "text": "Uzay"
+    },
+    {
+        "id": "PACK_SEALIFE",
+        "text": "Deniz"
+    },
+    {
+        "id": "PACK_MOUNTAINS",
+        "text": "Dağ"
+    },
+    {
+        "id": "PACK_VIDEOGAME",
+        "text": "Video oyunu"
+    },
+    {
+        "id": "YOU_GET",
+        "text": "Eline geçecek:"
+    },
+    {
+        "id": "BUY_FOR",
+        "text": "ŞU FİYATA AL:"
+    },
+    {
+        "id": "UPGRADE_CUBES_HINT",
+        "text": "Tüm "0"lar "1" oldu. Oyunda artık "0" numaralı küp kalmadı."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_9",
+        "text": "Harika! 1 milyon küpe çok yaklaştın!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_10",
+        "text": "Nasıl ya? Bunu nasıl yaptın?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_11",
+        "text": "Müthiş skor! Devam et, fazlasını da yapabilirsin!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_12",
+        "text": "Süper! Böyle devam et!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_13",
+        "text": "Ağzımız açık izliyoruz!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_14",
+        "text": "32 milyon küpe ulaşırsan doping testi yapmamız gerekecek!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_15",
+        "text": "64 milyona çok az kişi ulaşabiliyor. Onlardan biri olabilir misin?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_16",
+        "text": "İnsan mısın sen!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_17",
+        "text": "Pes etme, devam et!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_18",
+        "text": "512 milyona kadar çıkabilir misin?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_19",
+        "text": "Azmine hayran kaldık!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_20",
+        "text": "1 milyar mı? İnanmıyoruz!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_21",
+        "text": "Bir captcha falan olmalı."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_22",
+        "text": "Nasıl becerdin bilmiyoruz ama mükemmel!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_23",
+        "text": "16 milyara ulaşırsan bana bir çimdik at!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_24",
+        "text": "Bunu nasıl beceriyorsun söylesene!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_25",
+        "text": "Böyle devam edersen küpler tükenecek!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_26",
+        "text": "64 milyar mı? Şaka olmalı!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_27",
+        "text": "256 milyara ulaşırsan profesör oluyorsun!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_28",
+        "text": "512 milyara ulaşan çıkmadı daha!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_29",
+        "text": "Seni hiçbir şey durduramayacak galiba!"
+    },
+    {
+        "id": "BOOSTER_TUTORIAL_CAPTION",
+        "text": "Yeni takviye çıktı!"
+    },
+    {
+        "id": "BOMB",
+        "text": "Bomba"
+    },
+    {
+        "id": "COLORCUBE",
+        "text": "Renkli küp"
+    },
+    {
+        "id": "BOMB_DESCRIPTION",
+        "text": "dokunduğu küpü yok eder"
+    },
+    {
+        "id": "COLORCUBE_DESCRIPTION",
+        "text": "dokunduğu küpün değerini ikiye katlar"
+    },
+    {
+        "id": "BUTTON_TRY",
+        "text": "Dene"
+    },
+    {
+        "id": "STORE",
+        "text": "Mağaza"
+    },
+    {
+        "id": "BEST_PRICE",
+        "text": "En iyi fiyat"
+    },
+    {
+        "id": "GET",
+        "text": "Al"
+    },
+    {
+        "id": "FREE",
+        "text": "Bedava"
+    },
+    {
+        "id": "BOOSTER_DOUBLE",
+        "text": "Katlayıcı Takviyesi"
+    },
+    {
+        "id": "BOOSTER_BOMB",
+        "text": "Bomba Takviyesi"
+    },
+    {
+        "id": "SUPER_COMBO",
+        "text": "Süper Kombo"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE",
+        "text": "Çalkantı"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE_DESCRIPTION",
+        "text": "Küpler belli bir değere eriştiğinde karışır."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE",
+        "text": "Sekil değiştirme"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE_DESCRIPTION",
+        "text": "Farklı biçimlerde küplerle oynayın."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE",
+        "text": "Farklı boyutlar"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE_DESCRIPTION",
+        "text": "Küplerin sayısal değeri arttıkça boyutu da büyür."
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER",
+        "text": "Ulaş"
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES",
+        "text": "Ulaş"
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES_UNITS",
+        "text": "başlangıç"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES",
+        "text": "Ulaş"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES_UNITS",
+        "text": "birleştirme"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS",
+        "text": "Ulaş"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS_UNITS",
+        "text": "puan"
+    },
+    {
+        "id": "EVENT_YOUR_GOAL",
+        "text": "Hedefin:"
+    },
+    {
+        "id": "GOT_IT",
+        "text": "Anladım!"
+    },
+    {
+        "id": "MISSION_COMPLETE",
+        "text": "Görev tamam!"
+    },
+    {
+        "id": "EVENT_REWARD_THEME",
+        "text": "TEMA"
+    },
+    {
+        "id": "EVENT_OVER",
+        "text": "Etkinlik sona erdi."
+    },
+    {
+        "id": "EVENT_OVER_DESCRIPTION",
+        "text": "Yeni görev yakında başlayacak. Çok geçmeden geri gel!"
+    },
+    {
+        "id": "NEW",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE",
+        "text": "Tahta şekli"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE_DESCRIPTION",
+        "text": "Normal bir tahta yerine eğimli bir tahtada oyna."
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES",
+        "text": "Dondurulmuş küpler"
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES_DESCRIPTION",
+        "text": "Küpleri hareket ettirmek için buz küplerini kırın."
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE",
+        "text": "Engel"
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE_DESCRIPTION",
+        "text": "Başarılı birleştirmeler için küplerin uçuş yörüngesini planlayın."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SKY_JUMP",
+        "text": "Kayakla atlama"
+    },
+    {
+        "id": "WAIT",
+        "text": "Bekleyin... "
+    },
+    {
+        "id": "NOADS_HINT",
+        "text": "Reklamları kaldır ve ücretsiz paket al"
+    },
+    {
+        "id": "",
+        "text": "İçin satın al"
+    },
+    {
+        "id": "EVENT_GOAL_BOXES",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_BOXES_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "LEADERS",
+        "text": ""
+    },
+    {
+        "id": "SKINS",
+        "text": ""
+    },
+]

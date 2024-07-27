@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c99895c955029ab44a700204c080670c, type: 3}
+  m_Name: Points
+  m_EditorClassIdentifier:
+  _eventGoal: 2
+  _goalPrefab: {fileID: 114857232896397949, guid: c012c073c9e49c9468c359260e2244f9, type: 2}
+  _goalUnitsLocaleId: EVENT_GOAL_POINTS_UNITS
+  _goalNameLocaleId: EVENT_GOAL_POINTS

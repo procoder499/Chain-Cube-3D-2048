@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 724f7420f42f4085981c9dd981577f8c, type: 3}
+  m_Name: 04_chain
+  m_EditorClassIdentifier:
+  env: {fileID: 11400000, guid: 4a95f5deb32c2e74ba444115fb23816e, type: 2}
+  isTutor: 0
+  fireForceRotation: 0
+  cubesOnLevel:
+  - Position: {x: -1.73, y: 0.64, z: 0.67}
+    Rotation: {x: -0, y: -0.027156135, z: -0, w: 0.9996313}
+    Number: 8
+    Pot: 3
+    CubeType: 0
+  - Position: {x: -1.18, y: 0.6, z: 3.68}
+    Rotation: {x: -0, y: 0.28598788, z: -0, w: 0.95823324}
+    Number: 128
+    Pot: 7
+    CubeType: 0
+  - Position: {x: -0.03252107, y: 0.6, z: 2.6185274}
+    Rotation: {x: -0, y: -0.86200464, z: -0, w: 0.5069005}
+    Number: 256
+    Pot: 8
+    CubeType: 0
+  - Position: {x: 1.54, y: 0.6, z: 1.26}
+    Rotation: {x: -0, y: -0.4421238, z: -0, w: 0.8969541}
+    Number: 256
+    Pot: 8
+    CubeType: 0
+  - Position: {x: -1.4166254, y: 0.6, z: 2.0963063}
+    Rotation: {x: -0, y: 0.28598788, z: -0, w: 0.95823324}
+    Number: 128
+    Pot: 7
+    CubeType: 0
+  - Position: {x: 1.5232447, y: 0.6, z: 5.3}
+    Rotation: {x: -0, y: 0.2701426, z: -0, w: 0.96282035}
+    Number: 64
+    Pot: 6
+    CubeType: 0
+  - Position: {x: 1.323969, y: 0.64, z: 3.03}
+    Rotation: {x: -0, y: 0.3792163, z: -0, w: 0.9253081}
+    Number: 8
+    Pot: 3
+    CubeType: 0
+  - Position: {x: -1.5488676, y: 0.6, z: -0.73}
+    Rotation: {x: -0, y: 0.079542816, z: -0, w: 0.9968315}
+    Number: 2
+    Pot: 1
+    CubeType: 0
+  - Position: {x: 0.15, y: 0.63, z: 4.1752806}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 16
+    Pot: 4
+    CubeType: 0
+  - Position: {x: -1.3848462, y: 0.6, z: 5.36}
+    Rotation: {x: -0, y: -0.28594467, z: -0, w: 0.9582462}
+    Number: 32
+    Pot: 5
+    CubeType: 0

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5281431740d8b5c1a7bdc01c15eef4f, type: 3}
+  m_Name: VFXDatabase
+  m_EditorClassIdentifier:
+  _effects:
+  - _first: 0
+    _second: {fileID: 114577106093678912, guid: 3bc6c477638a7a54fb8425e9db1a0dc6, type: 2}
+  - _first: 1
+    _second: {fileID: 114448651952829147, guid: 6fba1fb7edda3634493602120c3a712f, type: 2}
+  - _first: 2
+    _second: {fileID: 114913157824550434, guid: 11f59f1957e89b947ae641bd487cabce, type: 2}
+  - _first: 3
+    _second: {fileID: 114898724130162812, guid: a6eccedec2cedc740b8fb5659645017d, type: 2}
+  - _first: 4
+    _second: {fileID: 114877738200174493, guid: dddc3b27efc53a94fb2d65b639accc87, type: 2}

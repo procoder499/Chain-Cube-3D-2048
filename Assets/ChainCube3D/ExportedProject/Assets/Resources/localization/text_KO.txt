@@ -1,0 +1,598 @@
+[
+    {
+        "id": "ADS_WINDOW_CAPTION",
+        "text": "광고가 지겨우시다고요? 영원히 없애보세요!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_CAPTION",
+        "text": "생성한 큐브:"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_1",
+        "text": "환상적이네요! 그럼 이제 4096을 만들어보세요!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_2",
+        "text": "와우! 그럼 8192는 어떠세요?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_3",
+        "text": "포기하지 않으실 거죠? 지금 포기하면 16384를 만들 수 없어요!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_4",
+        "text": "축하해요! 단 1%만이 여기까지 올 수 있어요!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_5",
+        "text": "오, 나의 새로운 영웅이여!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_6",
+        "text": "속임수를 쓴 건 아니겠죠?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_7",
+        "text": "말도 안 돼! 혹시 로봇이세요?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_8",
+        "text": "축하해요! 단 1%만이 이룰 수 있어요!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_MAX",
+        "text": "최대 큐브 두 개를 쓰러뜨렸습니다!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_OK_BUTTON",
+        "text": "훌륭해요!"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_CAPTION",
+        "text": "생성한 큐브:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD",
+        "text": "보상:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD_BUTTON",
+        "text": "수령"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_SKIP_AD_BUTTON",
+        "text": "아뇨, 괜찮아요"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_CAPTION",
+        "text": "광고 시청 보상:"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_OK_BUTTON",
+        "text": "아이템을 획득하세요!"
+    },
+    {
+        "id": "INGAME_BEST_SCORE",
+        "text": "최고: {value}"
+    },
+    {
+        "id": "MOVE_TO_AIM",
+        "text": "이동하여 조준"
+    },
+    {
+        "id": "MUSIC_CHECKBOX",
+        "text": "음악"
+    },
+    {
+        "id": "New highscore!",
+        "text": "고득점 달성!"
+    },
+    {
+        "id": "OK_BTN",
+        "text": "OK"
+    },
+    {
+        "id": "RATE_WINDOW_CAPTION",
+        "text": "게임을 즐기셨나요?"
+    },
+    {
+        "id": "RATE_WINDOW_HINT",
+        "text": "별점을 선택해주세요"
+    },
+    {
+        "id": "RATE_WINDOW_QUESTION",
+        "text": "여러분의 평가는 항상 소중하답니다!"
+    },
+    {
+        "id": "RATE_WINDOW_RATE_BUTTON",
+        "text": "평가해주세요!"
+    },
+    {
+        "id": "REMOVE_ADS_WINDOW_BUTTON",
+        "text": "광고 제거"
+    },
+    {
+        "id": "RESTART_LEVEL_BTN",
+        "text": "레벨 재시작"
+    },
+    {
+        "id": "RESTORE_PURCHASES",
+        "text": "구매 복원"
+    },
+    {
+        "id": "SOUND_CHECKBOX",
+        "text": "사운드"
+    },
+    {
+        "id": "TAP_TO_SHOOT",
+        "text": "탭하여 발사"
+    },
+    {
+        "id": "VIBRATION_CHECKBOX",
+        "text": "진동"
+    },
+    {
+        "id": "WIN_WINDOW_BEST_SCORE",
+        "text": "최고: {value}"
+    },
+    {
+        "id": "WIN_WINDOW_CAPTION",
+        "text": "축하해요!"
+    },
+    {
+        "id": "WIN_WINDOW_NEW_HIGHSCORE",
+        "text": "고득점을 달성했군요!"
+    },
+    {
+        "id": "WIN_WINDOW_NEXT_LEVEL_BTN",
+        "text": "다시 플레이하기"
+    },
+    {
+        "id": "WIN_WINDOW_REWARDED_VIDEO_BTN",
+        "text": "이어하기"
+    },
+    {
+        "id": "WIN_WINDOW_SKIP_AD",
+        "text": "아뇨, 괜찮아요"
+    },
+    {
+        "id": "WIN_WINDOW_YOUR_SCORE",
+        "text": "점수: {value}"
+    },
+    {
+        "id": "gdpr_warning",
+        "text": "약관을 업데이트했습니다."
+    },
+    {
+        "id": "gdpr_description",
+        "text": "수락을 누름으로써 약관에 동의하게 됩니다"
+    },
+    {
+        "id": "gdpr_terms_of_service",
+        "text": "사용 약관"
+    },
+    {
+        "id": "gdpr_privacy_policy",
+        "text": "개인 정보 규정"
+    },
+    {
+        "id": "accept",
+        "text": "수락"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_1",
+        "text": "광고가 지겨우시다고요?"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_2",
+        "text": "영원히 없애보세요!"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_CAPTION",
+        "text": "새로운 큐브!"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_REWARD",
+        "text": "보상:"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_GET_ITEM_CAPTION",
+        "text": "광고를 보고 리워드를 두 배로 받으세요"
+    },
+    {
+        "id": "LOSE_WINDOW_REVIVE",
+        "text": "계속"
+    },
+    {
+        "id": "YES_BUTTON",
+        "text": "예"
+    },
+    {
+        "id": "NO_BUTTON",
+        "text": "아니오"
+    },
+    {
+        "id": "QUIT_WARNING",
+        "text": "게임이 종료됩니다. 게임을 그만두시겠습니까?"
+    },
+    {
+        "id": "HIGH_SCORE",
+        "text": "최고"
+    },
+    {
+        "id": "BACKGROUND",
+        "text": "배경"
+    },
+    {
+        "id": "BOARD",
+        "text": "보드"
+    },
+    {
+        "id": "PACK",
+        "text": "팩"
+    },
+    {
+        "id": "APPLY",
+        "text": "적용"
+    },
+    {
+        "id": "PACK_UNLOCK_ALL",
+        "text": "전체 잠금 해제!"
+    },
+    {
+        "id": "PACK_STANDARD",
+        "text": "스탠다드"
+    },
+    {
+        "id": "PACK_HOBBIES_PACK",
+        "text": "취미 팩"
+    },
+    {
+        "id": "PACK_NATURE_PACK",
+        "text": "자연 팩"
+    },
+    {
+        "id": "PACK_DONUTS",
+        "text": "도넛"
+    },
+    {
+        "id": "PACK_DUCK",
+        "text": "오리"
+    },
+    {
+        "id": "PACK_FOOTBALL",
+        "text": "축구"
+    },
+    {
+        "id": "PACK_CHESS",
+        "text": "체스"
+    },
+    {
+        "id": "PACK_COURT_YARD",
+        "text": "마당"
+    },
+    {
+        "id": "PACK_BEACH",
+        "text": "해변"
+    },
+    {
+        "id": "PACK_SPACE",
+        "text": "우주"
+    },
+    {
+        "id": "PACK_SEALIFE",
+        "text": "바다"
+    },
+    {
+        "id": "PACK_MOUNTAINS",
+        "text": "산"
+    },
+    {
+        "id": "PACK_VIDEOGAME",
+        "text": "비디오 게임"
+    },
+    {
+        "id": "YOU_GET",
+        "text": "획득:"
+    },
+    {
+        "id": "BUY_FOR",
+        "text": "구매 가격"
+    },
+    {
+        "id": "UPGRADE_CUBES_HINT",
+        "text": "모든 "0"은 "1"이 되었습니다. "0"은 더 이상 게임에 없습니다"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_9",
+        "text": "아주 좋아요! 1M 큐브가 멀지 않았어요!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_10",
+        "text": "엥? 어떻게 그걸 성공할 수 있죠?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_11",
+        "text": "놀라운 점수군요! 어서, 더 해보세요!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_12",
+        "text": "우와! 힘내세요!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_13",
+        "text": "누가 상상이나 했겠어요!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_14",
+        "text": "32M에 도달한다면, 도핑 테스트라도 해봐야 할지도..."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_15",
+        "text": "아주 소수만 64M에 도달할 수 있는데, 혹시 여러분이...?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_16",
+        "text": "사람 맞으세요?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_17",
+        "text": "계속하세요!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_18",
+        "text": "512m까지 도달할 수 있다고요?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_19",
+        "text": "끈기가 정말 대단하네요!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_20",
+        "text": "1b? 말도 안 돼!!!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_21",
+        "text": "기계인지 아닌지 테스트를 해봐야겠어요."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_22",
+        "text": "도대체 어떻게 하는 건 진 모르지만, 완벽해요!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_23",
+        "text": "16b를 달성한다면, 내 볼을 한번 꼬집어줘요."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_24",
+        "text": "도대체 어떻게 하는 거죠?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_25",
+        "text": "계속 이렇게 잘하다간, 큐브가 더 이상 남지 않을 것 같아요."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_26",
+        "text": "64b까지 달성한 인간이 있다니."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_27",
+        "text": "256b까지 달성하면 과학계 학위는 따놓은 거나 다름없어요."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_28",
+        "text": "그 누구도 512b를 달성한 사람은 없었어요..."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_29",
+        "text": "당신은 막을 수 없는 존재 같아요!"
+    },
+    {
+        "id": "BOOSTER_TUTORIAL_CAPTION",
+        "text": "새 부스터 이용 가능!"
+    },
+    {
+        "id": "BOMB",
+        "text": "폭탄"
+    },
+    {
+        "id": "COLORCUBE",
+        "text": "컬러 큐브"
+    },
+    {
+        "id": "BOMB_DESCRIPTION",
+        "text": "자신의 몸에 닿는 큐브를 파괴합니다"
+    },
+    {
+        "id": "COLORCUBE_DESCRIPTION",
+        "text": "접촉 시 큐브의 가치가 두 배로 증가합니다"
+    },
+    {
+        "id": "BUTTON_TRY",
+        "text": "체험"
+    },
+    {
+        "id": "STORE",
+        "text": "상점"
+    },
+    {
+        "id": "BEST_PRICE",
+        "text": "최저가"
+    },
+    {
+        "id": "GET",
+        "text": "획득"
+    },
+    {
+        "id": "FREE",
+        "text": "무료"
+    },
+    {
+        "id": "BOOSTER_DOUBLE",
+        "text": "부스터 2배"
+    },
+    {
+        "id": "BOOSTER_BOMB",
+        "text": "폭탄 부스터"
+    },
+    {
+        "id": "SUPER_COMBO",
+        "text": "슈퍼 콤보"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE",
+        "text": "흔들기"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE_DESCRIPTION",
+        "text": "큐브가 특정 값에 도달하면 섞입니다."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE",
+        "text": "모양 변환"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE_DESCRIPTION",
+        "text": "모양이 바뀐 큐브로 플레이하세요."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE",
+        "text": "다양한 크기"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE_DESCRIPTION",
+        "text": "값이 커지면 큐브의 크기도 커집니다."
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER",
+        "text": "도달"
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES",
+        "text": "도달"
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES_UNITS",
+        "text": "실행"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES",
+        "text": "도달"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES_UNITS",
+        "text": "병합"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS",
+        "text": "도달"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS_UNITS",
+        "text": "점수"
+    },
+    {
+        "id": "EVENT_YOUR_GOAL",
+        "text": "목표:"
+    },
+    {
+        "id": "GOT_IT",
+        "text": "알았다!"
+    },
+    {
+        "id": "MISSION_COMPLETE",
+        "text": "미션 완료!"
+    },
+    {
+        "id": "EVENT_REWARD_THEME",
+        "text": "테마"
+    },
+    {
+        "id": "EVENT_OVER",
+        "text": "이벤트가 종료되었습니다!"
+    },
+    {
+        "id": "EVENT_OVER_DESCRIPTION",
+        "text": "새로운 챌린지가 곧 시작될 예정입니다. 나중에 다시 돌아와 주세요!"
+    },
+    {
+        "id": "NEW",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE",
+        "text": "보드 모양"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE_DESCRIPTION",
+        "text": "일반 보드 대신 곡선 보드에서 게임을 플레이하십시오."
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES",
+        "text": "얼어붙은 얼음 조각"
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES_DESCRIPTION",
+        "text": "얼음을 조각 내어 그것들을 보드 위에서 이동시키세요."
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE",
+        "text": "장애물"
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE_DESCRIPTION",
+        "text": "성공적인 병합을 위해 큐브의 비행 궤적을 계획하세요."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SKY_JUMP",
+        "text": "스키 점프"
+    },
+    {
+        "id": "WAIT",
+        "text": "기다려주세요..."
+    },
+    {
+        "id": "NOADS_HINT",
+        "text": "광고 제거 및 무료 팩 받기"
+    },
+    {
+        "id": "",
+        "text": "구매하기"
+    },
+    {
+        "id": "EVENT_GOAL_BOXES",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_BOXES_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "LEADERS",
+        "text": ""
+    },
+    {
+        "id": "SKINS",
+        "text": ""
+    },
+]

@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 724f7420f42f4085981c9dd981577f8c, type: 3}
+  m_Name: 12_circle
+  m_EditorClassIdentifier:
+  env: {fileID: 11400000, guid: d489ffbb04eb1d6498b864509813c27c, type: 2}
+  isTutor: 0
+  fireForceRotation: 0
+  cubesOnLevel:
+  - Position: {x: 0.6694596, y: 2.6017873, z: 5.2094917}
+    Rotation: {x: 0.0004413211, y: 0.19610788, z: -1.19843135E-05, w: 0.9805823}
+    Number: 4
+    Pot: 2
+    CubeType: 0
+  - Position: {x: -0.6774998, y: 2.601648, z: 5.2346206}
+    Rotation: {x: 0.00040810826, y: -0.1954552, z: 0.00027677126, w: 0.9807126}
+    Number: 2
+    Pot: 1
+    CubeType: 0
+  - Position: {x: 1.6126511, y: 2.6014242, z: 4.2774935}
+    Rotation: {x: 0.00052037905, y: 0.5578998, z: -0.00026908357, w: 0.8299082}
+    Number: 2
+    Pot: 1
+    CubeType: 0
+  - Position: {x: 1.5983162, y: 2.6017902, z: 2.9558775}
+    Rotation: {x: -1.9106792E-05, y: 0.18740632, z: -0.00067298306, w: 0.9822823}
+    Number: 4
+    Pot: 2
+    CubeType: 0
+  - Position: {x: -1.6202058, y: 2.6016874, z: 4.298555}
+    Rotation: {x: -2.5442969E-05, y: 0.19605401, z: 0.0003756878, w: 0.9805931}
+    Number: 4
+    Pot: 2
+    CubeType: 0
+  - Position: {x: -0.6561374, y: 2.6016657, z: 2.0213745}
+    Rotation: {x: -0.0003689871, y: 0.19598368, z: -6.4325104E-05, w: 0.9806071}
+    Number: 4
+    Pot: 2
+    CubeType: 0
+  - Position: {x: 0.65497243, y: 2.601864, z: 2.0456696}
+    Rotation: {x: -0.0004473734, y: -0.19451904, z: -0.00018182748, w: 0.9808987}
+    Number: 2
+    Pot: 1
+    CubeType: 0
+  - Position: {x: -1.5996561, y: 2.6016822, z: 2.9392307}
+    Rotation: {x: -0.0002835939, y: 0.5550733, z: 0.00023262174, w: 0.83180135}
+    Number: 2
+    Pot: 1
+    CubeType: 0
+  - Position: {x: 1.2409399, y: 1.6020619, z: 4.807997}
+    Rotation: {x: 0.0006701291, y: 0.38917902, z: 8.32991E-05, w: 0.9211619}
+    Number: 16
+    Pot: 4
+    CubeType: 0
+  - Position: {x: 0.0102881575, y: 1.6017407, z: 5.3617826}
+    Rotation: {x: 0.00035764882, y: 0.0065108747, z: 0.00016077237, w: 0.9999787}
+    Number: 8
+    Pot: 3
+    CubeType: 0
+  - Position: {x: 1.718458, y: 1.6019425, z: 3.562064}
+    Rotation: {x: 0.00020025938, y: 0.711554, z: -0.0006603539, w: 0.7026311}
+    Number: 8
+    Pot: 3
+    CubeType: 0
+  - Position: {x: 1.2021658, y: 1.6017196, z: 2.3674946}
+    Rotation: {x: -0.00017689918, y: 0.3833179, z: -0.00046741727, w: 0.9236163}
+    Number: 16
+    Pot: 4
+    CubeType: 0
+  - Position: {x: -1.2199787, y: 1.6015604, z: 4.873042}
+    Rotation: {x: 0.00031366278, y: 0.38914654, z: 0.00025069984, w: 0.9211758}
+    Number: 16
+    Pot: 4
+    CubeType: 0
+  - Position: {x: -1.2364246, y: 1.6018052, z: 2.4029791}
+    Rotation: {x: -0.00033408994, y: 0.38917568, z: -0.00020767386, w: 0.9211635}
+    Number: 16
+    Pot: 4
+    CubeType: 0
+  - Position: {x: -0.022245634, y: 1.6015655, z: 1.9064887}
+    Rotation: {x: -0.0003184238, y: 0.0069468142, z: 0.000103819075, w: 0.99997586}
+    Number: 8
+    Pot: 3
+    CubeType: 0
+  - Position: {x: -1.7367145, y: 1.6017594, z: 3.6167095}
+    Rotation: {x: -0.00027137704, y: 0.7118202, z: 0.0002298696, w: 0.70236164}
+    Number: 8
+    Pot: 3
+    CubeType: 0
+  - Position: {x: 0.665176, y: 0.6028941, z: 5.2044888}
+    Rotation: {x: 0.0001727743, y: 0.19536118, z: -7.3561256E-05, w: 0.98073137}
+    Number: 4
+    Pot: 2
+    CubeType: 0
+  - Position: {x: -0.6755316, y: 0.6029012, z: 5.2305603}
+    Rotation: {x: 0.00032969046, y: -0.19454443, z: -6.0336195E-05, w: 0.9808937}
+    Number: 2
+    Pot: 1
+    CubeType: 0
+  - Position: {x: 1.5944772, y: 0.6028874, z: 4.2609725}
+    Rotation: {x: 0.00018368056, y: 0.5588681, z: -0.0002541388, w: 0.8292565}
+    Number: 2
+    Pot: 1
+    CubeType: 0
+  - Position: {x: 1.587979, y: 0.60297555, z: 2.9625225}
+    Rotation: {x: -5.6079436E-05, y: 0.18946579, z: -0.0002691916, w: 0.9818873}
+    Number: 4
+    Pot: 2
+    CubeType: 0
+  - Position: {x: -1.6140819, y: 0.6028664, z: 4.2995033}
+    Rotation: {x: 0.00012635146, y: 0.19558729, z: 1.3806085E-05, w: 0.9806863}
+    Number: 4
+    Pot: 2
+    CubeType: 0
+  - Position: {x: -0.65506667, y: 0.60294557, z: 2.0248747}
+    Rotation: {x: -0.00013042388, y: 0.19584468, z: -0.0001694026, w: 0.98063487}
+    Number: 4
+    Pot: 2
+    CubeType: 0
+  - Position: {x: 0.64945936, y: 0.6029208, z: 2.04762}
+    Rotation: {x: -6.774955E-05, y: -0.1938156, z: -8.26356E-06, w: 0.98103803}
+    Number: 2
+    Pot: 1
+    CubeType: 0
+  - Position: {x: -1.5920283, y: 0.602951, z: 2.9460127}
+    Rotation: {x: -0.00022063233, y: 0.5561633, z: -0.00014120237, w: 0.831073}
+    Number: 2
+    Pot: 1
+    CubeType: 0

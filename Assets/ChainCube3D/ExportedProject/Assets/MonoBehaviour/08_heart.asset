@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 724f7420f42f4085981c9dd981577f8c, type: 3}
+  m_Name: 08_heart
+  m_EditorClassIdentifier:
+  env: {fileID: 11400000, guid: 4a95f5deb32c2e74ba444115fb23816e, type: 2}
+  isTutor: 0
+  fireForceRotation: 0
+  cubesOnLevel:
+  - Position: {x: -0.5, y: 0.6, z: 1.49}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 0.08, y: 0.6, z: 0.37}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 0.57, y: 0.6, z: 1.49}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -1.0899999, y: 0.6, z: 2.62}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -0.019999921, y: 0.6, z: 2.62}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.07, y: 0.6, z: 2.62}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -1.63, y: 0.6, z: 3.77}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -0.56, y: 0.6, z: 3.77}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 0.53, y: 0.6, z: 3.77}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.64, y: 0.6, z: 3.77}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -1.12, y: 0.6, z: 4.91}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.03, y: 0.6, z: 4.91}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0

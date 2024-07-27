@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 872aab3eb08e59b2598012c852fb686c, type: 3}
+  m_Name: _MultipleSetData 2
+  m_EditorClassIdentifier:
+  _iapId: com.colobolo.chainball.set_nature
+  _itemName: Nature pack
+  _localizationKey: PACK_NATURE_PACK
+  _itemType: 2
+  _itemShopImage: {fileID: 21300000, guid: 7af093c00ea07754eb22ce0db90ea421, type: 2}
+  _iap: 1
+  _adsToReceive: 1
+  _preBought: 0
+  _previewInPack: {fileID: 0}
+  _setType: 1
+  _backgroundItemsData: []
+  _boardItemsData: []
+  _setItemsData:
+  - {fileID: 11400000, guid: fb7781141a73ac9468a648d6c1b081c4, type: 2}
+  - {fileID: 11400000, guid: be299f512d826694a93dc9a8dcab047a, type: 2}
+  - {fileID: 11400000, guid: 99a08d97d63eca74a9b10ab609ed7aad, type: 2}
+  - {fileID: 11400000, guid: 3ab93400e0a83ee43b680a51946483bb, type: 2}
+  - {fileID: 11400000, guid: 65afbfe5b7ddbec4a98e91e55e19cee8, type: 2}
+  _isNoAdsPack: 0

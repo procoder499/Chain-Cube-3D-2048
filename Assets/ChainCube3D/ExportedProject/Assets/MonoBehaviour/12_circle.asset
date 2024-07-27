@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 724f7420f42f4085981c9dd981577f8c, type: 3}
+  m_Name: 12_circle
+  m_EditorClassIdentifier:
+  env: {fileID: 11400000, guid: d489ffbb04eb1d6498b864509813c27c, type: 2}
+  isTutor: 0
+  fireForceRotation: 0
+  cubesOnLevel:
+  - Position: {x: -1.21, y: 0.65, z: 2.1}
+    Rotation: {x: 0, y: 0.38268343, z: 0, w: 0.92387956}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.204, y: 0.64, z: 2.131019}
+    Rotation: {x: 0, y: -0.38268343, z: 0, w: 0.92387956}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 0.007999957, y: 0.62, z: 1.609}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 4
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -1.749, y: 0.62, z: 3.34}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 4
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.718, y: 0.62, z: 3.34}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 4
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.229, y: 0.65, z: 4.529}
+    Rotation: {x: 0, y: 0.38268343, z: 0, w: 0.92387956}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -1.24, y: 0.64, z: 4.56}
+    Rotation: {x: 0, y: -0.38268343, z: 0, w: 0.92387956}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 0.007999957, y: 0.62, z: 5.05}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 4
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -1.5960566, y: 1.68, z: 2.6697497}
+    Rotation: {x: -0, y: 0.56120205, z: -0, w: 0.8276788}
+    Number: 8
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 0.63369936, y: 1.67, z: 1.7442521}
+    Rotation: {x: -0, y: -0.18842752, z: -0, w: 0.98208714}
+    Number: 8
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -0.6712423, y: 1.65, z: 1.7373754}
+    Rotation: {x: -0, y: 0.20174412, z: -0, w: 0.9794383}
+    Number: 16
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -1.6011437, y: 1.65, z: 4.021821}
+    Rotation: {x: -0, y: 0.20174412, z: -0, w: 0.9794383}
+    Number: 16
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.5836381, y: 1.65, z: 2.6516912}
+    Rotation: {x: -0, y: 0.20174412, z: -0, w: 0.9794383}
+    Number: 16
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.6043264, y: 1.68, z: 3.9371543}
+    Rotation: {x: -0, y: 0.56120205, z: -0, w: 0.8276788}
+    Number: 8
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -0.6514433, y: 1.67, z: 4.9413576}
+    Rotation: {x: -0, y: -0.18842752, z: -0, w: 0.98208714}
+    Number: 8
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 0.6886119, y: 1.65, z: 4.8982744}
+    Rotation: {x: -0, y: 0.20174412, z: -0, w: 0.9794383}
+    Number: 16
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -1.21, y: 2.69, z: 2.1}
+    Rotation: {x: 0, y: 0.38268343, z: 0, w: 0.92387956}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.204, y: 2.6799998, z: 2.131019}
+    Rotation: {x: 0, y: -0.38268343, z: 0, w: 0.92387956}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 0.007999957, y: 2.6599998, z: 1.609}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 4
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -1.749, y: 2.6599998, z: 3.34}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 4
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.718, y: 2.66, z: 3.34}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 4
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.229, y: 2.69, z: 4.529}
+    Rotation: {x: 0, y: 0.38268343, z: 0, w: 0.92387956}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -1.24, y: 2.6799998, z: 4.56}
+    Rotation: {x: 0, y: -0.38268343, z: 0, w: 0.92387956}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 0.007999957, y: 2.6599998, z: 5.05}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 4
+    Pot: 0
+    CubeType: 0

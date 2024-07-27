@@ -1,0 +1,598 @@
+[
+    {
+        "id": "ADS_WINDOW_CAPTION",
+        "text": "Устали от рекламы? Вы можете ее отключить, навсегда!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_CAPTION",
+        "text": "Куб создан:"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_1",
+        "text": "Отлично! Теперь попробуй сделать 4096!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_2",
+        "text": "Да ладно? А сможешь 8192?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_3",
+        "text": "Вот это упрямство! 16к тебе точно не достичь."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_4",
+        "text": "Полегче, ты же не хочешь собрать 32к?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_5",
+        "text": "Теперь ты мой новый герой!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_6",
+        "text": "А ты точно не читер?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_7",
+        "text": "Может быть, за тебя играет робот?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_8",
+        "text": "Поздравляем! Только 1 процент игроков получает этот куб."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_MAX",
+        "text": "Тебе удалось соединить два максимальных куба!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_OK_BUTTON",
+        "text": "Отлично!"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_CAPTION",
+        "text": "Куб создан:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD",
+        "text": "Твоя награда:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD_BUTTON",
+        "text": "Получить"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_SKIP_AD_BUTTON",
+        "text": "Нет, спасибо"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_CAPTION",
+        "text": "Посмотри рекламу и получи:"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_OK_BUTTON",
+        "text": "Получить!"
+    },
+    {
+        "id": "INGAME_BEST_SCORE",
+        "text": "Рекорд: {value}"
+    },
+    {
+        "id": "MOVE_TO_AIM",
+        "text": "Двигай, чтобы целиться"
+    },
+    {
+        "id": "MUSIC_CHECKBOX",
+        "text": "Музыка"
+    },
+    {
+        "id": "New highscore!",
+        "text": "Новый рекорд!"
+    },
+    {
+        "id": "OK_BTN",
+        "text": "ОК"
+    },
+    {
+        "id": "RATE_WINDOW_CAPTION",
+        "text": "Тебе нравится игра?"
+    },
+    {
+        "id": "RATE_WINDOW_HINT",
+        "text": "Выбери несколько звезд"
+    },
+    {
+        "id": "RATE_WINDOW_QUESTION",
+        "text": "Будем рады, если оценишь нас"
+    },
+    {
+        "id": "RATE_WINDOW_RATE_BUTTON",
+        "text": "Оценить!"
+    },
+    {
+        "id": "REMOVE_ADS_WINDOW_BUTTON",
+        "text": "Отключить рекламу"
+    },
+    {
+        "id": "RESTART_LEVEL_BTN",
+        "text": "Начать заново"
+    },
+    {
+        "id": "RESTORE_PURCHASES",
+        "text": "Восстановить покупки"
+    },
+    {
+        "id": "SOUND_CHECKBOX",
+        "text": "Звуки"
+    },
+    {
+        "id": "TAP_TO_SHOOT",
+        "text": "Нажми, чтобы выстрелить"
+    },
+    {
+        "id": "VIBRATION_CHECKBOX",
+        "text": "Вибрация"
+    },
+    {
+        "id": "WIN_WINDOW_BEST_SCORE",
+        "text": "Рекорд: {value}"
+    },
+    {
+        "id": "WIN_WINDOW_CAPTION",
+        "text": "Поздравляем!"
+    },
+    {
+        "id": "WIN_WINDOW_NEW_HIGHSCORE",
+        "text": "У тебя новый рекорд!"
+    },
+    {
+        "id": "WIN_WINDOW_NEXT_LEVEL_BTN",
+        "text": "Сыграть еще"
+    },
+    {
+        "id": "WIN_WINDOW_REWARDED_VIDEO_BTN",
+        "text": "Продолжить"
+    },
+    {
+        "id": "WIN_WINDOW_SKIP_AD",
+        "text": "Нет, спасибо"
+    },
+    {
+        "id": "WIN_WINDOW_YOUR_SCORE",
+        "text": "Тебе удалось набрать: {value}"
+    },
+    {
+        "id": "gdpr_warning",
+        "text": "Мы обновили наши Условия"
+    },
+    {
+        "id": "gdpr_description",
+        "text": "Нажимая "Принять", вы соглашаетесь с ними"
+    },
+    {
+        "id": "gdpr_terms_of_service",
+        "text": "Условия обслуживания"
+    },
+    {
+        "id": "gdpr_privacy_policy",
+        "text": "Политика конфиденциальности"
+    },
+    {
+        "id": "accept",
+        "text": "Принять"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_1",
+        "text": "Устали от рекламы?"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_2",
+        "text": "Теперь можно ее отключить, навсегда!"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_CAPTION",
+        "text": "Новый куб!"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_REWARD",
+        "text": "Награда:"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_GET_ITEM_CAPTION",
+        "text": "Посмотри рекламу и удвой награду"
+    },
+    {
+        "id": "LOSE_WINDOW_REVIVE",
+        "text": "Возобновить"
+    },
+    {
+        "id": "YES_BUTTON",
+        "text": "Да"
+    },
+    {
+        "id": "NO_BUTTON",
+        "text": "Нет"
+    },
+    {
+        "id": "QUIT_WARNING",
+        "text": "Ты точно хочешь выйти?"
+    },
+    {
+        "id": "HIGH_SCORE",
+        "text": "Рекорд"
+    },
+    {
+        "id": "BACKGROUND",
+        "text": "Фон"
+    },
+    {
+        "id": "BOARD",
+        "text": "Доска"
+    },
+    {
+        "id": "PACK",
+        "text": "Набор"
+    },
+    {
+        "id": "APPLY",
+        "text": "Применить"
+    },
+    {
+        "id": "PACK_UNLOCK_ALL",
+        "text": "Открыть все!"
+    },
+    {
+        "id": "PACK_STANDARD",
+        "text": "Стандартный"
+    },
+    {
+        "id": "PACK_HOBBIES_PACK",
+        "text": "Набор "Хобби""
+    },
+    {
+        "id": "PACK_NATURE_PACK",
+        "text": "Набор "Природа""
+    },
+    {
+        "id": "PACK_DONUTS",
+        "text": "Пончики"
+    },
+    {
+        "id": "PACK_DUCK",
+        "text": "Утки"
+    },
+    {
+        "id": "PACK_FOOTBALL",
+        "text": "Футбол"
+    },
+    {
+        "id": "PACK_CHESS",
+        "text": "Шахматы"
+    },
+    {
+        "id": "PACK_COURT_YARD",
+        "text": "Двор"
+    },
+    {
+        "id": "PACK_BEACH",
+        "text": "Пляж"
+    },
+    {
+        "id": "PACK_SPACE",
+        "text": "Космос"
+    },
+    {
+        "id": "PACK_SEALIFE",
+        "text": "Подводный мир"
+    },
+    {
+        "id": "PACK_MOUNTAINS",
+        "text": "Горы"
+    },
+    {
+        "id": "PACK_VIDEOGAME",
+        "text": "Видеоигра"
+    },
+    {
+        "id": "YOU_GET",
+        "text": "Ты получишь:"
+    },
+    {
+        "id": "BUY_FOR",
+        "text": "КУПИТЬ ЗА"
+    },
+    {
+        "id": "UPGRADE_CUBES_HINT",
+        "text": "Все "0" превращаются в "1". Куб "0" больше не участвует в игре"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_9",
+        "text": "Блестяще! совсем скоро 1M!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_10",
+        "text": "Как? Как ты это делаешь?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_11",
+        "text": "Невероятный результат! Продолжай в том же духе"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_12",
+        "text": "Вау! Продолжай в том же духе!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_13",
+        "text": "Мы на такое даже не рассчитывали..."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_14",
+        "text": "Если дойдешь до 32M, нужно будет проверить тебя на допинг"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_15",
+        "text": "Единицы доходят до 64m, сможешь ли ты?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_16",
+        "text": "Ты точно с этой планеты?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_17",
+        "text": "Просто продолжай!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_18",
+        "text": "Неужели ты сможешь сможешь дойти до 512m?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_19",
+        "text": "Твое упорство вызывает восхищение!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_20",
+        "text": "1b? Да этого просто не может быть!!!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_21",
+        "text": "Тут должна быть капча"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_22",
+        "text": "Не знаю, как у тебя получается, но это превосходно!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_23",
+        "text": "Ущепни меня, если получится собрать 16b"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_24",
+        "text": "Как ты вообще это делаешь?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_25",
+        "text": "Если продолжишь в таком же темпе – у нас кончатся кубы"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_26",
+        "text": "Я не могу поверить, что кто-то собрал 64b..."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_27",
+        "text": "А за 256b присуждают научную степерь!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_28",
+        "text": "Еще никто не доходил до 512b..."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_29",
+        "text": "Думаю, что тебя невозможно остановить!"
+    },
+    {
+        "id": "BOOSTER_TUTORIAL_CAPTION",
+        "text": "Доступен новый бустер!"
+    },
+    {
+        "id": "BOMB",
+        "text": "Бомба"
+    },
+    {
+        "id": "COLORCUBE",
+        "text": "Цветной куб"
+    },
+    {
+        "id": "BOMB_DESCRIPTION",
+        "text": "уничтожает кубы, с которыми соприкасается"
+    },
+    {
+        "id": "COLORCUBE_DESCRIPTION",
+        "text": "удваивает значение куба при соприкосновении с ним"
+    },
+    {
+        "id": "BUTTON_TRY",
+        "text": "Попробовать"
+    },
+    {
+        "id": "STORE",
+        "text": "магазин"
+    },
+    {
+        "id": "BEST_PRICE",
+        "text": "лучшая цена"
+    },
+    {
+        "id": "GET",
+        "text": "Получить"
+    },
+    {
+        "id": "FREE",
+        "text": "Бесплатно"
+    },
+    {
+        "id": "BOOSTER_DOUBLE",
+        "text": "Удваивающий бустер"
+    },
+    {
+        "id": "BOOSTER_BOMB",
+        "text": "Бомба-бустер"
+    },
+    {
+        "id": "SUPER_COMBO",
+        "text": "Супер-комбо"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE",
+        "text": "Перемешивание"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE_DESCRIPTION",
+        "text": "При достижении кубов определенных значений происходит перетасовка кубов."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE",
+        "text": "Изменение форм"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE_DESCRIPTION",
+        "text": "Играйте кубами измененных форм."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE",
+        "text": "Изменение размера"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE_DESCRIPTION",
+        "text": "С увеличением значений будет увеличиваться размер кубов."
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER",
+        "text": "Достигни"
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES",
+        "text": "Достигни"
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES_UNITS",
+        "text": "запусков"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES",
+        "text": "Достигни"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES_UNITS",
+        "text": "соединений"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS",
+        "text": "Достигни"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS_UNITS",
+        "text": "очков"
+    },
+    {
+        "id": "EVENT_YOUR_GOAL",
+        "text": "Твоя цель:"
+    },
+    {
+        "id": "GOT_IT",
+        "text": "Понятно!"
+    },
+    {
+        "id": "MISSION_COMPLETE",
+        "text": "Задача выполнена"
+    },
+    {
+        "id": "EVENT_REWARD_THEME",
+        "text": "ТЕМА"
+    },
+    {
+        "id": "EVENT_OVER",
+        "text": "Событие завершено"
+    },
+    {
+        "id": "EVENT_OVER_DESCRIPTION",
+        "text": "Новое испытание начнется очень скоро. Пожалуйста, возвращайся позже."
+    },
+    {
+        "id": "NEW",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE",
+        "text": "Форма доски"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE_DESCRIPTION",
+        "text": "Играйте на изогнутой доске вместо обычной."
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES",
+        "text": "Замороженные кубики"
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES_DESCRIPTION",
+        "text": "Разрушайте лёд на кубах, чтобы перемещать их по игровому полю."
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE",
+        "text": "Препятствие"
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE_DESCRIPTION",
+        "text": "Продумывайте траекторию полета кубов для успешных слияний."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SKY_JUMP",
+        "text": "Трамплин"
+    },
+    {
+        "id": "WAIT",
+        "text": "Подождите..."
+    },
+    {
+        "id": "NOADS_HINT",
+        "text": "Отключи рекламу и получи фон в подарок!"
+    },
+    {
+        "id": "",
+        "text": "Купить за"
+    },
+    {
+        "id": "EVENT_GOAL_BOXES",
+        "text": "Достигни"
+    },
+    {
+        "id": "EVENT_GOAL_BOXES_UNITS",
+        "text": "Разбей все ящики"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES",
+        "text": "Ящики"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_DESCRIPTION",
+        "text": "Разбивай ящики"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS",
+        "text": "Ящики с цифрами"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS_DESCRIPTION",
+        "text": "Разбивай ящики с цифрами"
+    },
+    {
+        "id": "LEADERS",
+        "text": "Рекорды"
+    },
+    {
+        "id": "SKINS",
+        "text": "Фоны"
+    },
+]

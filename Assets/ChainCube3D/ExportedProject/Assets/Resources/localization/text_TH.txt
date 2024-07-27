@@ -1,0 +1,598 @@
+[
+    {
+        "id": "ADS_WINDOW_CAPTION",
+        "text": "เบื่อโฆษณาแล้วใช่ไหม? คุณสามารถปิดโฆษณาตลอดไปได้ทันที+"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_CAPTION",
+        "text": "ลูกบาศก์ที่สร้าง:"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_1",
+        "text": "ยอดมาก! ลองทำให้ได้ 4096 สิ!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_2",
+        "text": "ว้าว! แล้ว 8192 ล่ะได้มั้ย?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_3",
+        "text": "ยังไม่ยอมแพ้สินะ? ยังไงก็คงไม่มีทางถึง 16384 หรอกน่า!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_4",
+        "text": "ยินดีด้วย! มีคนเพียง 1% เท่านั้นที่มาไกลถึงขนาดนี้!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_5",
+        "text": "คุณคือฮีโร่คนใหม่ของฉัน"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_6",
+        "text": "แน่ใจใช่ไหมว่าไม่ได้โกง?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_7",
+        "text": "เป็นไปไม่ได้! คุณเป็นหุ่นยนต์รึเปล่าเนี่ย?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_8",
+        "text": "ยินดีด้วย! มีคนเพียง 1% เท่านั้นที่มาถึงจุดนี้ได้!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_MAX",
+        "text": "คุณรวมลูกบาศก์ค่าสูงสุดได้สองลูกแล้ว!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_OK_BUTTON",
+        "text": "ยอดมาก!"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_CAPTION",
+        "text": "ลูกบาศก์ที่สร้าง:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD",
+        "text": "รางวัลของคุณ:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD_BUTTON",
+        "text": "รับ"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_SKIP_AD_BUTTON",
+        "text": "ไม่ล่ะ ขอบคุณ"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_CAPTION",
+        "text": "ดูโฆษณาเพื่อรับ:"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_OK_BUTTON",
+        "text": "รับไอเท็ม!"
+    },
+    {
+        "id": "INGAME_BEST_SCORE",
+        "text": "ดีที่สุด: {value}"
+    },
+    {
+        "id": "MOVE_TO_AIM",
+        "text": "ขยับเพื่อเล็ง"
+    },
+    {
+        "id": "MUSIC_CHECKBOX",
+        "text": "เพลง"
+    },
+    {
+        "id": "New highscore!",
+        "text": "สถิติใหม่!"
+    },
+    {
+        "id": "OK_BTN",
+        "text": "ตกลง"
+    },
+    {
+        "id": "RATE_WINDOW_CAPTION",
+        "text": "คุณชอบเกมของเราไหม?"
+    },
+    {
+        "id": "RATE_WINDOW_HINT",
+        "text": "โปรดให้ดาว"
+    },
+    {
+        "id": "RATE_WINDOW_QUESTION",
+        "text": "เรายินดีอย่างยิ่งสำหรับความเห็นของคุณ!"
+    },
+    {
+        "id": "RATE_WINDOW_RATE_BUTTON",
+        "text": "ให้คะแนนเรา!"
+    },
+    {
+        "id": "REMOVE_ADS_WINDOW_BUTTON",
+        "text": "ลบโฆษณา"
+    },
+    {
+        "id": "RESTART_LEVEL_BTN",
+        "text": "รีสตาร์ทด่าน"
+    },
+    {
+        "id": "RESTORE_PURCHASES",
+        "text": "กู้คืนสินค้าที่ซื้อ"
+    },
+    {
+        "id": "SOUND_CHECKBOX",
+        "text": "เสียง"
+    },
+    {
+        "id": "TAP_TO_SHOOT",
+        "text": "แตะเพื่อยิง"
+    },
+    {
+        "id": "VIBRATION_CHECKBOX",
+        "text": "การสั่น"
+    },
+    {
+        "id": "WIN_WINDOW_BEST_SCORE",
+        "text": "ดีที่สุด: {value}"
+    },
+    {
+        "id": "WIN_WINDOW_CAPTION",
+        "text": "ยินดีด้วย!"
+    },
+    {
+        "id": "WIN_WINDOW_NEW_HIGHSCORE",
+        "text": "คุณทำสถิติสูงสุด!"
+    },
+    {
+        "id": "WIN_WINDOW_NEXT_LEVEL_BTN",
+        "text": "เล่นอีกครั้ง"
+    },
+    {
+        "id": "WIN_WINDOW_REWARDED_VIDEO_BTN",
+        "text": "ต่อไป"
+    },
+    {
+        "id": "WIN_WINDOW_SKIP_AD",
+        "text": "ไม่ล่ะ ขอบคุณ"
+    },
+    {
+        "id": "WIN_WINDOW_YOUR_SCORE",
+        "text": "คะแนนของคุณ: {value}"
+    },
+    {
+        "id": "gdpr_warning",
+        "text": "เราได้อัปเดตข้อกำหนดในการให้บริการเกมแล้ว"
+    },
+    {
+        "id": "gdpr_description",
+        "text": "หากต้องการเล่นเกมต่อ คุณจะต้องยอมรับข้อกำหนดของเรา:"
+    },
+    {
+        "id": "gdpr_terms_of_service",
+        "text": "ข้อกำหนดในการให้บริการ"
+    },
+    {
+        "id": "gdpr_privacy_policy",
+        "text": "นโยบายความเป็นส่วนตัว"
+    },
+    {
+        "id": "accept",
+        "text": "ยอมรับ"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_1",
+        "text": "เบื่อโฆษณาแล้วใช่ไหม?"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_2",
+        "text": "คุณสามารถปิดโฆษณาตลอดไปได้ทันที+"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_CAPTION",
+        "text": "ลูกบาศก์ใหม่!"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_REWARD",
+        "text": "รางวัล:"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_GET_ITEM_CAPTION",
+        "text": "รับชมโฆษณา เพื่อเพิ่มรางวัลของคุณเป็นสองเท่า"
+    },
+    {
+        "id": "LOSE_WINDOW_REVIVE",
+        "text": "ดำเนินการต่อ"
+    },
+    {
+        "id": "YES_BUTTON",
+        "text": "ใช่"
+    },
+    {
+        "id": "NO_BUTTON",
+        "text": "ไม่"
+    },
+    {
+        "id": "QUIT_WARNING",
+        "text": "คุณกำลังออกจากเกม คุณแน่ใจหรือไม่?"
+    },
+    {
+        "id": "HIGH_SCORE",
+        "text": "ดีที่สุด"
+    },
+    {
+        "id": "BACKGROUND",
+        "text": "พื้นหลัง"
+    },
+    {
+        "id": "BOARD",
+        "text": "บอร์ด"
+    },
+    {
+        "id": "PACK",
+        "text": "แพ็ก"
+    },
+    {
+        "id": "APPLY",
+        "text": "ใช้"
+    },
+    {
+        "id": "PACK_UNLOCK_ALL",
+        "text": "ปลดล็อกทั้งหมด!"
+    },
+    {
+        "id": "PACK_STANDARD",
+        "text": "มาตรฐาน"
+    },
+    {
+        "id": "PACK_HOBBIES_PACK",
+        "text": "แพ็กงานอดิเรก"
+    },
+    {
+        "id": "PACK_NATURE_PACK",
+        "text": "แพ็กธรรมชาติ"
+    },
+    {
+        "id": "PACK_DONUTS",
+        "text": "โดนัต"
+    },
+    {
+        "id": "PACK_DUCK",
+        "text": "เป็ด"
+    },
+    {
+        "id": "PACK_FOOTBALL",
+        "text": "ฟุตบอล"
+    },
+    {
+        "id": "PACK_CHESS",
+        "text": "หมากรุก"
+    },
+    {
+        "id": "PACK_COURT_YARD",
+        "text": "สวนในอาคาร"
+    },
+    {
+        "id": "PACK_BEACH",
+        "text": "ชายหาด"
+    },
+    {
+        "id": "PACK_SPACE",
+        "text": "อวกาศ"
+    },
+    {
+        "id": "PACK_SEALIFE",
+        "text": "ชีวิตในทะเล"
+    },
+    {
+        "id": "PACK_MOUNTAINS",
+        "text": "ภูเขา"
+    },
+    {
+        "id": "PACK_VIDEOGAME",
+        "text": "วิดีโอเกม"
+    },
+    {
+        "id": "YOU_GET",
+        "text": "คุณจะได้รับ:"
+    },
+    {
+        "id": "BUY_FOR",
+        "text": "ซื้อในราคา"
+    },
+    {
+        "id": "UPGRADE_CUBES_HINT",
+        "text": "0 ทั้งหมดกลายเป็น "1" ลูกบาศก์ "0" จะไม่อยู่ในเกมอีกต่อไป"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_9",
+        "text": "ยอดมาก! ลูกบาศก์ 1 ล้านอยู่ไม่ไกลแล้ว!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_10",
+        "text": "อะไรกัน? คุณทำได้ยังไงกัน?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_11",
+        "text": "ช่างเป็นคะแนนที่ยอดเยี่ยม! เอาสิ ทำลายสถิติเลย!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_12",
+        "text": "ว้าว! พยายามเข้า!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_13",
+        "text": "ใครจะไปคิดล่ะนั่น!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_14",
+        "text": "ถ้าคุณไปถึง 32 ล้าน เราจะต้องขอตรวจสารกระตุ้นแล้ว"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_15",
+        "text": "มีไม่กี่คนเท่านั้นที่ไปถึง 64 ล้าน คุณจะเป็นหนึ่งในนั้นไหม?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_16",
+        "text": "คุณเป็นมนุษย์จริงๆ รึเปล่าเนี่ย?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_17",
+        "text": "พยายามต่อไป!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_18",
+        "text": "คุณสามารถทำมันให้ถึง 512m ได้จริงเหรอ"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_19",
+        "text": "ความพยายามของคุณช่างน่าชื่นชม!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_20",
+        "text": "1b อย่างนั้นเหรอ เป็นไปไม่ได้!!!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_21",
+        "text": "แคปต์ชาต้องเข้าแล้ว"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_22",
+        "text": "ฉันไม่รู้ว่าคุณทำได้อย่างไร แต่มันช่างสมบูรณ์แบบ!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_23",
+        "text": "หนีบฉันถ้าคุณทำได้ถึง 16b"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_24",
+        "text": "คุณทำอย่างนั้นได้อย่างไร"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_25",
+        "text": "หากคุณทำได้ต่อนี้ เราจะไม่มีลูกบาศก์เหลือแล้ว"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_26",
+        "text": "ฉันไม่อยากจะเชื่อเลยว่ามีคนทำได้ถึง 64b"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_27",
+        "text": "และ 256b จะทำให้คุณได้รับปริญญาวิทยาศาสตร์"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_28",
+        "text": "ไม่เคยมีใครทำได้ถึง 512b..."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_29",
+        "text": "ฉันคิดว่าคุณหยุดไม่อยู่แล้ว!"
+    },
+    {
+        "id": "BOOSTER_TUTORIAL_CAPTION",
+        "text": "มีบูสเตอร์ใหม่ให้บริการแล้ว!"
+    },
+    {
+        "id": "BOMB",
+        "text": "ระเบิด"
+    },
+    {
+        "id": "COLORCUBE",
+        "text": "ลูกบาศก์สี"
+    },
+    {
+        "id": "BOMB_DESCRIPTION",
+        "text": "ทำลายลูกบาศก์ที่สัมผัส"
+    },
+    {
+        "id": "COLORCUBE_DESCRIPTION",
+        "text": "เพิ่มมูลค่าของลูกบาศก์ที่สัมผัสสองเท่า"
+    },
+    {
+        "id": "BUTTON_TRY",
+        "text": "ลองดู"
+    },
+    {
+        "id": "STORE",
+        "text": "ร้านค้า"
+    },
+    {
+        "id": "BEST_PRICE",
+        "text": "ราคาที่ดีที่สุด"
+    },
+    {
+        "id": "GET",
+        "text": "รับ"
+    },
+    {
+        "id": "FREE",
+        "text": "ฟรี"
+    },
+    {
+        "id": "BOOSTER_DOUBLE",
+        "text": "บูสเตอร์ 2 เท่า"
+    },
+    {
+        "id": "BOOSTER_BOMB",
+        "text": "บูสเตอร์ระเบิด"
+    },
+    {
+        "id": "SUPER_COMBO",
+        "text": "ซูเปอร์คอมโบ"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE",
+        "text": "เขย่า"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE_DESCRIPTION",
+        "text": "เมื่อลูกบาศก์มีค่าถึงตามที่กำหนด ลูกบาศก์จะได้รับการสับเปลี่ยน"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE",
+        "text": "เปลี่ยนรูปทรง"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE_DESCRIPTION",
+        "text": "เล่นกับลูกบาศก์ที่มีรูปร่างดัดแปลง"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE",
+        "text": "เปลี่ยนขนาด"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE_DESCRIPTION",
+        "text": "ลูกบาศก์จะเพิ่มขนาดเมื่อมีค่าที่เพิ่มขึ้น"
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER",
+        "text": "ไปถึง"
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES",
+        "text": "ไปถึง"
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES_UNITS",
+        "text": "เปิดตัว"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES",
+        "text": "ไปถึง"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES_UNITS",
+        "text": "ผสานรวม"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS",
+        "text": "ไปถึง"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS_UNITS",
+        "text": "แต้ม"
+    },
+    {
+        "id": "EVENT_YOUR_GOAL",
+        "text": "เป้าหมายของคุณ:"
+    },
+    {
+        "id": "GOT_IT",
+        "text": "เข้าใจแล้ว!"
+    },
+    {
+        "id": "MISSION_COMPLETE",
+        "text": "ภารกิจสำเร็จ!"
+    },
+    {
+        "id": "EVENT_REWARD_THEME",
+        "text": "ธีม"
+    },
+    {
+        "id": "EVENT_OVER",
+        "text": "กิจกรรมจบลงแล้ว!"
+    },
+    {
+        "id": "EVENT_OVER_DESCRIPTION",
+        "text": "ความท้าทายใหม่จะเริ่มต้นเร็วๆ นี้ โปรดกลับมาอีกครั้ง!"
+    },
+    {
+        "id": "NEW",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE",
+        "text": "รูปร่างบอร์ด"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE_DESCRIPTION",
+        "text": "เล่นบนกระดานโค้งแทนกระดานปกติ"
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES",
+        "text": "ก้อนน้ำแข็งที่แช่แข็ง"
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES_DESCRIPTION",
+        "text": "หั่นน้ำแข็งเป็นก้อนเพื่อเคลื่อนย้ายไปบนกระดาน"
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE",
+        "text": "อุปสรรค"
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE_DESCRIPTION",
+        "text": "วางแผนเส้นทางการบินของลูกบาศก์สำหรับการผสมที่ประสบความสำเร็จ"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SKY_JUMP",
+        "text": "กระโดดสกี"
+    },
+    {
+        "id": "WAIT",
+        "text": "รอสักครู่..."
+    },
+    {
+        "id": "NOADS_HINT",
+        "text": "ลบโฆษณาและรับแพ็คฟรี"
+    },
+    {
+        "id": "",
+        "text": "ซื้อสำหรับ"
+    },
+    {
+        "id": "EVENT_GOAL_BOXES",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_BOXES_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "LEADERS",
+        "text": ""
+    },
+    {
+        "id": "SKINS",
+        "text": ""
+    },
+]

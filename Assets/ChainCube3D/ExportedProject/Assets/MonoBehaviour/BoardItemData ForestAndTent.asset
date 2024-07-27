@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d86e77cc646c43f6f26a83465eebc19, type: 3}
+  m_Name: BoardItemData ForestAndTent
+  m_EditorClassIdentifier:
+  _iapId: board_forestandtent
+  _itemName:
+  _localizationKey:
+  _itemType: 1
+  _itemShopImage: {fileID: 0}
+  _iap: 0
+  _adsToReceive: 1
+  _preBought: 0
+  _previewInPack: {fileID: 0}
+  _floorTexture: {fileID: 0}
+  _floorColor: {r: 0.9607843, g: 0.9019608, b: 0.6745098, a: 1}
+  _bordersColor: {r: 1, g: 0.59607846, b: 0.02745098, a: 1}

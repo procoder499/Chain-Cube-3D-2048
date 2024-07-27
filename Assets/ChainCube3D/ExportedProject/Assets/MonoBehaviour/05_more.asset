@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 724f7420f42f4085981c9dd981577f8c, type: 3}
+  m_Name: 05_more
+  m_EditorClassIdentifier:
+  env: {fileID: 11400000, guid: 8410770a8097dad42b35f8381c25c864, type: 2}
+  isTutor: 0
+  fireForceRotation: 0
+  cubesOnLevel:
+  - Position: {x: 0.19999999, y: 0.6, z: 2.1599998}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 4
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -0.93, y: 0.6, z: 2.1699998}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -0.92, y: 0.63, z: 3.31}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 4
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -0.91, y: 1.63, z: 2.2099998}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 8
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -0.87000006, y: 2.71, z: 2.1599998}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.26, y: 0.6, z: 2.1699998}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.24, y: 0.63, z: 3.29}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 4
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.27, y: 2.66, z: 2.2199998}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 4
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 0.17999995, y: 0.67, z: 3.3399997}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 8
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.28, y: 1.62, z: 2.1899998}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 8
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.38, y: 2.78, z: 3.3199997}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 8
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -0.90000004, y: 1.67, z: 3.3199997}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 16
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 0.17999995, y: 1.62, z: 2.1899998}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 16
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.25, y: 1.72, z: 3.31}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 16
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 0.21999997, y: 1.75, z: 3.3599997}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 32
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 0.19, y: 2.67, z: 2.2399998}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 32
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -0.91, y: 2.64, z: 3.2799997}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 32
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 0.21999997, y: 2.71, z: 3.35}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 0.19999999, y: 0.6, z: 4.39}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 4
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -0.93, y: 0.6, z: 4.3999996}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -0.87000006, y: 2.71, z: 4.39}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: -0.91, y: 1.63, z: 4.4399996}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 8
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.26, y: 0.6, z: 4.3999996}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 2
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.27, y: 2.66, z: 4.45}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 4
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 1.28, y: 1.62, z: 4.42}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 8
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 0.17999995, y: 1.62, z: 4.42}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 16
+    Pot: 0
+    CubeType: 0
+  - Position: {x: 0.19, y: 2.67, z: 4.47}
+    Rotation: {x: -0, y: -0, z: -0, w: 1}
+    Number: 32
+    Pot: 0
+    CubeType: 0

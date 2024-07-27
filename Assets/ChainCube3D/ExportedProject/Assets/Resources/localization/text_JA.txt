@@ -1,0 +1,598 @@
+[
+    {
+        "id": "ADS_WINDOW_CAPTION",
+        "text": "広告にうんざりですか？今すぐ非表示にしましょう！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_CAPTION",
+        "text": "作ったキューブの数:"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_1",
+        "text": "お見事！次は4096にトライ！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_2",
+        "text": "ワオ！8192はどうかな？"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_3",
+        "text": "諦める気はゼロだね。でも16384は絶対に無理だよ！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_4",
+        "text": "おめでとう！ここまで来れるのは上位1%だけ！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_5",
+        "text": "新しいヒーローの誕生だ！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_6",
+        "text": "本当にズルしてない？"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_7",
+        "text": "インポッシブル！あなたロボットですか？"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_8",
+        "text": "おめでとう！ここまで達成できるのは上位1%だけ！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_MAX",
+        "text": "2個の最大数キューブをつぶしたよ！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_OK_BUTTON",
+        "text": "すばらしい！"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_CAPTION",
+        "text": "作ったキューブの数:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD",
+        "text": "報酬:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD_BUTTON",
+        "text": "受け取る"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_SKIP_AD_BUTTON",
+        "text": "視聴しない"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_CAPTION",
+        "text": "広告を視聴してゲット:"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_OK_BUTTON",
+        "text": "アイテムを入手！"
+    },
+    {
+        "id": "INGAME_BEST_SCORE",
+        "text": "ベスト: {value}"
+    },
+    {
+        "id": "MOVE_TO_AIM",
+        "text": "移動して狙う"
+    },
+    {
+        "id": "MUSIC_CHECKBOX",
+        "text": "ミュージック"
+    },
+    {
+        "id": "New highscore!",
+        "text": "ハイスコア更新！"
+    },
+    {
+        "id": "OK_BTN",
+        "text": "OK"
+    },
+    {
+        "id": "RATE_WINDOW_CAPTION",
+        "text": "ゲームを気に入りましたか？"
+    },
+    {
+        "id": "RATE_WINDOW_HINT",
+        "text": "スターを選んでください"
+    },
+    {
+        "id": "RATE_WINDOW_QUESTION",
+        "text": "評価をお願いします！"
+    },
+    {
+        "id": "RATE_WINDOW_RATE_BUTTON",
+        "text": "評価する"
+    },
+    {
+        "id": "REMOVE_ADS_WINDOW_BUTTON",
+        "text": "広告を非表示にする"
+    },
+    {
+        "id": "RESTART_LEVEL_BTN",
+        "text": "ステージを最初からはじめる"
+    },
+    {
+        "id": "RESTORE_PURCHASES",
+        "text": "購入済みアイテムを復元"
+    },
+    {
+        "id": "SOUND_CHECKBOX",
+        "text": "サウンド"
+    },
+    {
+        "id": "TAP_TO_SHOOT",
+        "text": "タップして撃つ"
+    },
+    {
+        "id": "VIBRATION_CHECKBOX",
+        "text": "振動"
+    },
+    {
+        "id": "WIN_WINDOW_BEST_SCORE",
+        "text": "ベスト: {value}"
+    },
+    {
+        "id": "WIN_WINDOW_CAPTION",
+        "text": "おめでとう！"
+    },
+    {
+        "id": "WIN_WINDOW_NEW_HIGHSCORE",
+        "text": "ハイスコアを更新しました！"
+    },
+    {
+        "id": "WIN_WINDOW_NEXT_LEVEL_BTN",
+        "text": "もう一度プレイする"
+    },
+    {
+        "id": "WIN_WINDOW_REWARDED_VIDEO_BTN",
+        "text": "続ける"
+    },
+    {
+        "id": "WIN_WINDOW_SKIP_AD",
+        "text": "視聴しない"
+    },
+    {
+        "id": "WIN_WINDOW_YOUR_SCORE",
+        "text": "スコア: {value}"
+    },
+    {
+        "id": "gdpr_warning",
+        "text": "当社の利用規約が更新されました。"
+    },
+    {
+        "id": "gdpr_description",
+        "text": "規約内容を確認して<承諾する>をタップしてください"
+    },
+    {
+        "id": "gdpr_terms_of_service",
+        "text": "利用規約"
+    },
+    {
+        "id": "gdpr_privacy_policy",
+        "text": "プライバシーポリシー"
+    },
+    {
+        "id": "accept",
+        "text": "承認"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_1",
+        "text": "広告にうんざりですか？"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_2",
+        "text": "今すぐ非表示にしましょう！"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_CAPTION",
+        "text": "新しいキューブ！"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_REWARD",
+        "text": "報酬："
+    },
+    {
+        "id": "NEW_CUBE_CREATED_GET_ITEM_CAPTION",
+        "text": "広告を見て報酬を2倍にする"
+    },
+    {
+        "id": "LOSE_WINDOW_REVIVE",
+        "text": "続行"
+    },
+    {
+        "id": "YES_BUTTON",
+        "text": "はい"
+    },
+    {
+        "id": "NO_BUTTON",
+        "text": "いいえ"
+    },
+    {
+        "id": "QUIT_WARNING",
+        "text": "ゲームを止めようとしています。本当に実行しますか？"
+    },
+    {
+        "id": "HIGH_SCORE",
+        "text": "ベスト"
+    },
+    {
+        "id": "BACKGROUND",
+        "text": "背景"
+    },
+    {
+        "id": "BOARD",
+        "text": "ボード"
+    },
+    {
+        "id": "PACK",
+        "text": "パック"
+    },
+    {
+        "id": "APPLY",
+        "text": "適用"
+    },
+    {
+        "id": "PACK_UNLOCK_ALL",
+        "text": "すべてアンロック！"
+    },
+    {
+        "id": "PACK_STANDARD",
+        "text": "スタンダード"
+    },
+    {
+        "id": "PACK_HOBBIES_PACK",
+        "text": "ホビーパック"
+    },
+    {
+        "id": "PACK_NATURE_PACK",
+        "text": "自然パック"
+    },
+    {
+        "id": "PACK_DONUTS",
+        "text": "ドーナツ"
+    },
+    {
+        "id": "PACK_DUCK",
+        "text": "アヒル"
+    },
+    {
+        "id": "PACK_FOOTBALL",
+        "text": "フットボール"
+    },
+    {
+        "id": "PACK_CHESS",
+        "text": "チェス"
+    },
+    {
+        "id": "PACK_COURT_YARD",
+        "text": "中庭"
+    },
+    {
+        "id": "PACK_BEACH",
+        "text": "ビーチ"
+    },
+    {
+        "id": "PACK_SPACE",
+        "text": "宇宙"
+    },
+    {
+        "id": "PACK_SEALIFE",
+        "text": "海の生き物"
+    },
+    {
+        "id": "PACK_MOUNTAINS",
+        "text": "山脈"
+    },
+    {
+        "id": "PACK_VIDEOGAME",
+        "text": "テレビゲーム"
+    },
+    {
+        "id": "YOU_GET",
+        "text": "入手："
+    },
+    {
+        "id": "BUY_FOR",
+        "text": "次の値段で購入"
+    },
+    {
+        "id": "UPGRADE_CUBES_HINT",
+        "text": "すべての「0」が「1」になる。キューブの「0」がゲーム内に出現しなくなる。"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_9",
+        "text": "ブリリアント！100万キューブまであと一歩！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_10",
+        "text": "え？一体どうやったの？"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_11",
+        "text": "どんでもないスコアだ！その調子でいこう！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_12",
+        "text": "ワオ！その調子！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_13",
+        "text": "ありえない！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_14",
+        "text": "3200万に到達しようものなら、ドーピング検査をしなくちゃ"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_15",
+        "text": "6400万に到達できるのは極わずか。君はその1人になれるか？"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_16",
+        "text": "君って本当に人間？"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_17",
+        "text": "その調子！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_18",
+        "text": "512mまで本当に行けるかな？"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_19",
+        "text": "賞賛に値する粘り強さ！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_20",
+        "text": "1b？そんなのありえない！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_21",
+        "text": "キャプチャがあるはずです。"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_22",
+        "text": "どうやったのかわかりませんが、完璧です！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_23",
+        "text": "16bを入手できたらつねってもらっていいですよ。"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_24",
+        "text": "一体どうやったんです？"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_25",
+        "text": "このままだと、キューブがなくなってしまうかもしれません。"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_26",
+        "text": "64bを作った人がいるなんて信じられない。"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_27",
+        "text": "256bがあれば科学の学位が取れますね。"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_28",
+        "text": "512bを作れた人は存在しません…"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_29",
+        "text": "どうやら向かうところ敵なしですね！"
+    },
+    {
+        "id": "BOOSTER_TUTORIAL_CAPTION",
+        "text": "新たなブースターが使用可能！"
+    },
+    {
+        "id": "BOMB",
+        "text": "爆弾"
+    },
+    {
+        "id": "COLORCUBE",
+        "text": "カラーキューブ"
+    },
+    {
+        "id": "BOMB_DESCRIPTION",
+        "text": "触れたキューブを破壊する"
+    },
+    {
+        "id": "COLORCUBE_DESCRIPTION",
+        "text": "触れたキューブの値を2倍にする"
+    },
+    {
+        "id": "BUTTON_TRY",
+        "text": "挑戦"
+    },
+    {
+        "id": "STORE",
+        "text": "ストア"
+    },
+    {
+        "id": "BEST_PRICE",
+        "text": "大特価"
+    },
+    {
+        "id": "GET",
+        "text": "入手"
+    },
+    {
+        "id": "FREE",
+        "text": "無料"
+    },
+    {
+        "id": "BOOSTER_DOUBLE",
+        "text": "2倍化ブースター"
+    },
+    {
+        "id": "BOOSTER_BOMB",
+        "text": "ボムブースター"
+    },
+    {
+        "id": "SUPER_COMBO",
+        "text": "スーパーコンボ"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE",
+        "text": "シェイク"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE_DESCRIPTION",
+        "text": "キューブは特定の値に到達するとシャッフルされます。"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE",
+        "text": "形を変える"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE_DESCRIPTION",
+        "text": "形を変えたキューブで遊びます。"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE",
+        "text": "異なるサイズ"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE_DESCRIPTION",
+        "text": "キューブは値が大きくなると大きさが増します。"
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER",
+        "text": "到達"
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES",
+        "text": "到達"
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES_UNITS",
+        "text": "発射"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES",
+        "text": "到達"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES_UNITS",
+        "text": "合体"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS",
+        "text": "到達"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS_UNITS",
+        "text": "ポイント"
+    },
+    {
+        "id": "EVENT_YOUR_GOAL",
+        "text": "目標："
+    },
+    {
+        "id": "GOT_IT",
+        "text": "了解！"
+    },
+    {
+        "id": "MISSION_COMPLETE",
+        "text": "ミッションクリア！"
+    },
+    {
+        "id": "EVENT_REWARD_THEME",
+        "text": "テーマ"
+    },
+    {
+        "id": "EVENT_OVER",
+        "text": "イベントは終了しました！"
+    },
+    {
+        "id": "EVENT_OVER_DESCRIPTION",
+        "text": "新しいチャレンジはまもなく開始します。後ほどお戻りください！"
+    },
+    {
+        "id": "NEW",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE",
+        "text": "ボードの形状"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE_DESCRIPTION",
+        "text": "通常のボードではなく、曲がったボードで遊ぶ。"
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES",
+        "text": "凍った氷のキューブ"
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES_DESCRIPTION",
+        "text": "氷をキューブ状に砕いて移動させます。"
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE",
+        "text": "障害物"
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE_DESCRIPTION",
+        "text": "成功したマージのためにキューブの飛行軌道を計画してください。"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SKY_JUMP",
+        "text": "スキージャンプ"
+    },
+    {
+        "id": "WAIT",
+        "text": "待ってください..."
+    },
+    {
+        "id": "NOADS_HINT",
+        "text": "広告を削除して無料パックを入手する"
+    },
+    {
+        "id": "",
+        "text": "のために購入"
+    },
+    {
+        "id": "EVENT_GOAL_BOXES",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_BOXES_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "LEADERS",
+        "text": ""
+    },
+    {
+        "id": "SKINS",
+        "text": ""
+    },
+]

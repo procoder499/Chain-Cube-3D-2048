@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00eaba87faf07c299b4b4496093a577c, type: 3}
+  m_Name: IntegrationSettings
+  m_EditorClassIdentifier:
+  googleDocId: 1SghCe0oDjktLUNu-pQ7FaHroDbqmtwad6u6wZZP0l4o
+  autoRun: 0
+  enableAnalytics: 1
+  developmentAnalytics: 0
+  enableAppMetrica: 1
+  AppMetricaSettings:
+    <AppMetricaApiKey>k__BackingField: 00cbffbd-57c0-468c-8564-59c3cd175147
+    <AppMetricaSessionTimeoutSec>k__BackingField: 300
+    <LogActive>k__BackingField: 0
+  enableAppsFlyer: 1
+  AppsFlyerSettings:
+    devKey: r9vNC83N8nYpCzYGigyjUh
+    appID: 1493199883
+    UWPAppID:
+    macOSAppID:
+    isDebug: 0
+    getConversionData: 1
+    appsFlyerSessionTimeout: 300
+  enableAds: 1
+  maxSdkKey: 6AQkyPv9b4u7yTtMH9PT40gXg00uJOTsmBOf7hDxa_-FnNZvt_qTLnJAiKeb5-2_T8GsI_dGQKKKrtwZTlCzAR
+  adMobAndroidAppId: ca-app-pub-5108357189760220~2957513593
+  adMobIosAppId: ca-app-pub-5108357189760220~1552465998
+  androidInterstitialAdUnitId: e443adbc996c1bb9
+  androidRewardedAdUnitId: cd450c5e485f16c9
+  androidBannerAdUnitId: 0ebe201f6c4d83ea
+  iosInterstitialAdUnitId: 71544b842da651ea
+  iosRewardedAdUnitId: aca4a7ab768e5f2e
+  iosBannerAdUnitId: f77bfc6d7f90e4cf
+  InterstitialAdUnitId: e443adbc996c1bb9
+  RewardedAdUnitId: cd450c5e485f16c9
+  BannerAdUnitId: 0ebe201f6c4d83ea
+  loadInterstitialOnStart: 1
+  loadRewardedOnStart: 1
+  createBannerOnStart: 1
+  autoShowBannerOnStart: 1
+  autoShowBannerDelay: 20
+  interstitialDelayAndroid: 30
+  firstInterstitialDelayAndroid: 45
+  interstitialDelayIos: 45
+  firstInterstitialDelayIos: 45
+  locationUsageDescription: Used for best downloading ads

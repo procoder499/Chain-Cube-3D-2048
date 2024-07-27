@@ -1,0 +1,598 @@
+[
+    {
+        "id": "ADS_WINDOW_CAPTION",
+        "text": "Mệt mỏi vì quảng cáo? Hãy tắt chúng mãi mãi, ngay bây giờ!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_CAPTION",
+        "text": "Đã tạo khối:"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_1",
+        "text": "Quá tuyệt! Giờ hãy cố gắng có 4096!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_2",
+        "text": "Wowza! 8192 thì sao?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_3",
+        "text": "Bạn không bỏ cuộc, phải không? Tuy nhiên, bạn sẽ không bao giờ có được 16384!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_4",
+        "text": "Xin chúc mừng! Chỉ có 1% người chơi đi được xa đến thế này!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_5",
+        "text": "Bạn là anh hùng mới của tôi!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_6",
+        "text": "Bạn có chắc là không chơi ăn gian không vậy?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_7",
+        "text": "Không thể nào! Bạn là robot hả?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_8",
+        "text": "Xin chúc mừng! Chỉ 1% người chơi có thể đạt được mốc này!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_MAX",
+        "text": "Bạn đã làm đổ hai khối tối đa!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_OK_BUTTON",
+        "text": "Tuyệt!"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_CAPTION",
+        "text": "Đã tạo khối:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD",
+        "text": "Phần thưởng của bạn:"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD_BUTTON",
+        "text": "Nhận"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_SKIP_AD_BUTTON",
+        "text": "Không, cảm ơn"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_CAPTION",
+        "text": "Xem quảng cáo và nhận:"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_OK_BUTTON",
+        "text": "Nhận vật phẩm!"
+    },
+    {
+        "id": "INGAME_BEST_SCORE",
+        "text": "Tốt nhất: {value}"
+    },
+    {
+        "id": "MOVE_TO_AIM",
+        "text": "Di chuyển để ngắm bắn"
+    },
+    {
+        "id": "MUSIC_CHECKBOX",
+        "text": "Âm nhạc"
+    },
+    {
+        "id": "New highscore!",
+        "text": "Kỷ lục mới!"
+    },
+    {
+        "id": "OK_BTN",
+        "text": "OK"
+    },
+    {
+        "id": "RATE_WINDOW_CAPTION",
+        "text": "Bạn có thích trò chơi này không?"
+    },
+    {
+        "id": "RATE_WINDOW_HINT",
+        "text": "Hãy chọn một số ngôi sao"
+    },
+    {
+        "id": "RATE_WINDOW_QUESTION",
+        "text": "Chúng tôi sẽ rất vui nếu bạn xếp hạng chúng tôi!"
+    },
+    {
+        "id": "RATE_WINDOW_RATE_BUTTON",
+        "text": "Xếp hạng!"
+    },
+    {
+        "id": "REMOVE_ADS_WINDOW_BUTTON",
+        "text": "Loại bỏ q.cáo"
+    },
+    {
+        "id": "RESTART_LEVEL_BTN",
+        "text": "Khởi động lại cấp độ"
+    },
+    {
+        "id": "RESTORE_PURCHASES",
+        "text": "Khôi phục mua hàng"
+    },
+    {
+        "id": "SOUND_CHECKBOX",
+        "text": "Âm thanh"
+    },
+    {
+        "id": "TAP_TO_SHOOT",
+        "text": "Nhấn để bắn"
+    },
+    {
+        "id": "VIBRATION_CHECKBOX",
+        "text": "Rung"
+    },
+    {
+        "id": "WIN_WINDOW_BEST_SCORE",
+        "text": "Tốt nhất: {value}"
+    },
+    {
+        "id": "WIN_WINDOW_CAPTION",
+        "text": "Xin chúc mừng!"
+    },
+    {
+        "id": "WIN_WINDOW_NEW_HIGHSCORE",
+        "text": "Bạn đã có điểm cao mới!"
+    },
+    {
+        "id": "WIN_WINDOW_NEXT_LEVEL_BTN",
+        "text": "Chơi lại"
+    },
+    {
+        "id": "WIN_WINDOW_REWARDED_VIDEO_BTN",
+        "text": "Tiếp tục"
+    },
+    {
+        "id": "WIN_WINDOW_SKIP_AD",
+        "text": "Không, cảm ơn"
+    },
+    {
+        "id": "WIN_WINDOW_YOUR_SCORE",
+        "text": "Điểm của bạn: {value}"
+    },
+    {
+        "id": "gdpr_warning",
+        "text": "Chúng tôi đã cập nhật các điều khoản của mình."
+    },
+    {
+        "id": "gdpr_description",
+        "text": "Bằng cách nhấn vào"
+    },
+    {
+        "id": "gdpr_terms_of_service",
+        "text": "Điều khoản Dịch vụ"
+    },
+    {
+        "id": "gdpr_privacy_policy",
+        "text": "Chính sách bảo mật"
+    },
+    {
+        "id": "accept",
+        "text": "Ch.Nhận"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_1",
+        "text": "Mệt mỏi vì quảng cáo?"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_2",
+        "text": "Hãy tắt chúng mãi mãi, ngay bây giờ!"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_CAPTION",
+        "text": "Khối vuông mới"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_REWARD",
+        "text": "Phần thưởng:"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_GET_ITEM_CAPTION",
+        "text": "Xem quảng cáo để tăng gấp đôi phần thưởng"
+    },
+    {
+        "id": "LOSE_WINDOW_REVIVE",
+        "text": "Teruskan"
+    },
+    {
+        "id": "YES_BUTTON",
+        "text": "Có"
+    },
+    {
+        "id": "NO_BUTTON",
+        "text": "Không"
+    },
+    {
+        "id": "QUIT_WARNING",
+        "text": "Bạn sắp thoát khỏi trò chơi. Bạn có chắc chắn không?"
+    },
+    {
+        "id": "HIGH_SCORE",
+        "text": "Tốt nhất"
+    },
+    {
+        "id": "BACKGROUND",
+        "text": "Hình nền"
+    },
+    {
+        "id": "BOARD",
+        "text": "Máng"
+    },
+    {
+        "id": "PACK",
+        "text": "Gói"
+    },
+    {
+        "id": "APPLY",
+        "text": "Áp dụng"
+    },
+    {
+        "id": "PACK_UNLOCK_ALL",
+        "text": "Mở khóa Tất cả!"
+    },
+    {
+        "id": "PACK_STANDARD",
+        "text": "Tiêu chuẩn"
+    },
+    {
+        "id": "PACK_HOBBIES_PACK",
+        "text": "Gói Sở thích"
+    },
+    {
+        "id": "PACK_NATURE_PACK",
+        "text": "Gói Tự nhiên"
+    },
+    {
+        "id": "PACK_DONUTS",
+        "text": "Bánh rán"
+    },
+    {
+        "id": "PACK_DUCK",
+        "text": "Vịt"
+    },
+    {
+        "id": "PACK_FOOTBALL",
+        "text": "Bóng đá"
+    },
+    {
+        "id": "PACK_CHESS",
+        "text": "Cờ"
+    },
+    {
+        "id": "PACK_COURT_YARD",
+        "text": "Sân nhỏ"
+    },
+    {
+        "id": "PACK_BEACH",
+        "text": "Bãi biển"
+    },
+    {
+        "id": "PACK_SPACE",
+        "text": "Không gian"
+    },
+    {
+        "id": "PACK_SEALIFE",
+        "text": "Động vật biển"
+    },
+    {
+        "id": "PACK_MOUNTAINS",
+        "text": "Núi"
+    },
+    {
+        "id": "PACK_VIDEOGAME",
+        "text": "Trò chơi video"
+    },
+    {
+        "id": "YOU_GET",
+        "text": "Bạn nhận:"
+    },
+    {
+        "id": "BUY_FOR",
+        "text": "MUA VỚI GIÁ"
+    },
+    {
+        "id": "UPGRADE_CUBES_HINT",
+        "text": "Tất cả "0" trở thành "1". Khối "0" không còn ở trong trò chơi"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_9",
+        "text": "Tuyệt vời! Khối 1M đã rất gần rồi!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_10",
+        "text": "Trời? Bạn làm cách nào mà hay vậy?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_11",
+        "text": "Điểm số khó tin! Hãy tiếp tục phát huy!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_12",
+        "text": "Tuyệt quá! Cố lên!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_13",
+        "text": "Không ai ngờ tới!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_14",
+        "text": "Nếu bạn đạt 32M, chúng tôi sẽ phải kiểm tra xem bạn có dùng doping không"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_15",
+        "text": "Chỉ vài người đạt tới 64M, bạn có thuộc số ít đó không?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_16",
+        "text": "Bạn có phải người thường không vậy?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_17",
+        "text": "Hãy tiếp tục!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_18",
+        "text": "Bạn có thể đạt tới 512 triệu không?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_19",
+        "text": "Sự kiên trì của bạn thật đáng ngưỡng mộ!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_20",
+        "text": "1 tỉ? Thật khó tin!!!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_21",
+        "text": "Chắc phải có mã captcha."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_22",
+        "text": "Tôi không biết bạn làm cách nào, nhưng quá hoàn hảo!"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_23",
+        "text": "Véo tôi một cái nếu bạn có thể đạt được 16 tỉ nhé."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_24",
+        "text": "Làm sao mà bạn làm được vậy?"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_25",
+        "text": "Nếu bạn cứ tiếp tục như vậy, chúng tôi sẽ hết khối lập phương mất."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_26",
+        "text": "Thật khó tin là có người đạt tới 64 tỉ."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_27",
+        "text": "Và 256 tỉ đã cho bạn tấm bằng khoa học."
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_28",
+        "text": "Chưa có ai từng đạt được 512 tỉ…"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_29",
+        "text": "Tôi nghĩ bạn là vô địch thiên hạ!"
+    },
+    {
+        "id": "BOOSTER_TUTORIAL_CAPTION",
+        "text": "Có Tăng cường mới!"
+    },
+    {
+        "id": "BOMB",
+        "text": "Bom"
+    },
+    {
+        "id": "COLORCUBE",
+        "text": "Khối màu"
+    },
+    {
+        "id": "BOMB_DESCRIPTION",
+        "text": "phá hủy các khối nó chạm vào"
+    },
+    {
+        "id": "COLORCUBE_DESCRIPTION",
+        "text": "nhân đôi giá trị của khối khi tiếp xúc"
+    },
+    {
+        "id": "BUTTON_TRY",
+        "text": "Thử dùng"
+    },
+    {
+        "id": "STORE",
+        "text": "Cửa hàng"
+    },
+    {
+        "id": "BEST_PRICE",
+        "text": "Giá tốt nhất"
+    },
+    {
+        "id": "GET",
+        "text": "Nhận"
+    },
+    {
+        "id": "FREE",
+        "text": "Miễn phí"
+    },
+    {
+        "id": "BOOSTER_DOUBLE",
+        "text": "Tăng cường Nhân đôi"
+    },
+    {
+        "id": "BOOSTER_BOMB",
+        "text": "Tăng cường Bom"
+    },
+    {
+        "id": "SUPER_COMBO",
+        "text": "Siêu combo"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE",
+        "text": "Rung lắc"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE_DESCRIPTION",
+        "text": "Khi các khối vuông đạt đến giá trị nhất định, các khối vuông sẽ được xáo trộn."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE",
+        "text": "Thay đổi hình dạng"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE_DESCRIPTION",
+        "text": "Chơi cùng các khối vuông có hình dạng được sửa đổi."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE",
+        "text": "Kích thước khác nhau"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE_DESCRIPTION",
+        "text": "Các khối vuông tăng kích thước khi các giá trị lớn hơn."
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER",
+        "text": "Đạt"
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES",
+        "text": "Đạt"
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES_UNITS",
+        "text": "lần phóng"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES",
+        "text": "Đạt"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES_UNITS",
+        "text": "hợp nhất"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS",
+        "text": "Đạt"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS_UNITS",
+        "text": "điểm"
+    },
+    {
+        "id": "EVENT_YOUR_GOAL",
+        "text": "Mục tiêu của bạn:"
+    },
+    {
+        "id": "GOT_IT",
+        "text": "Đã hiểu!"
+    },
+    {
+        "id": "MISSION_COMPLETE",
+        "text": "Hoành thành Nhiệm vụ!"
+    },
+    {
+        "id": "EVENT_REWARD_THEME",
+        "text": "CHỦ ĐỀ"
+    },
+    {
+        "id": "EVENT_OVER",
+        "text": "Sự kiện kết thúc!"
+    },
+    {
+        "id": "EVENT_OVER_DESCRIPTION",
+        "text": "Một thử thách mới sẽ sớm bắt đầu. Vui lòng quay lại sau!"
+    },
+    {
+        "id": "NEW",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE",
+        "text": "Hình dạng tấm ván"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE_DESCRIPTION",
+        "text": "Chơi trên tấm ván cong thay vì tấm ván thông thường."
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES",
+        "text": "Khối đá bị đóng băng"
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES_DESCRIPTION",
+        "text": "Phá vỡ đá thành khối để di chuyển chúng trên bàn cờ."
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE",
+        "text": "Trở ngại"
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE_DESCRIPTION",
+        "text": "Lên kế hoạch cho quỹ đạo bay của khối để kết hợp thành công."
+    },
+    {
+        "id": "EVENT_GAMEMODE_SKY_JUMP",
+        "text": "Nhảy trượt tuyết"
+    },
+    {
+        "id": "WAIT",
+        "text": "Đợi..."
+    },
+    {
+        "id": "NOADS_HINT",
+        "text": "Loại bỏ quảng cáo và nhận một gói miễn phí"
+    },
+    {
+        "id": "",
+        "text": "Mua cho"
+    },
+    {
+        "id": "EVENT_GOAL_BOXES",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_BOXES_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "LEADERS",
+        "text": ""
+    },
+    {
+        "id": "SKINS",
+        "text": ""
+    },
+]

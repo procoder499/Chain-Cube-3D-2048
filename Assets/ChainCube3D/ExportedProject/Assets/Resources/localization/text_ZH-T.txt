@@ -1,0 +1,598 @@
+[
+    {
+        "id": "ADS_WINDOW_CAPTION",
+        "text": "不想再看見廣告了嗎？立即永久關閉它們！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_CAPTION",
+        "text": "創造的方塊："
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_1",
+        "text": "太好了！現在嘗試取得 4096！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_2",
+        "text": "哇！那 8192 呢？"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_3",
+        "text": "你真是鍥而不捨，不過你可別想取得 16384！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_4",
+        "text": "恭喜！只有 1% 的人能夠走到這裡！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_5",
+        "text": "你是我的新英雄！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_6",
+        "text": "你確定你沒有作弊嗎？"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_7",
+        "text": "怎麼可能！難道你是機器人？"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_8",
+        "text": "恭喜！只有 1% 的玩家能取得這樣的成就！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_MAX",
+        "text": "你清除了兩個最大的方塊！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_OK_BUTTON",
+        "text": "太好了！"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_CAPTION",
+        "text": "創造的方塊："
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD",
+        "text": "你的獎勵："
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_REWARD_BUTTON",
+        "text": "領取"
+    },
+    {
+        "id": "CUBE_COLLAPSED_WINDOW_SKIP_AD_BUTTON",
+        "text": "不用了，謝謝"
+    },
+    {
+        "id": "GET_ITEM_WINDOW_CAPTION",
+        "text": "觀看廣告並取得："
+    },
+    {
+        "id": "GET_ITEM_WINDOW_OK_BUTTON",
+        "text": "取得道具！"
+    },
+    {
+        "id": "INGAME_BEST_SCORE",
+        "text": "最佳：{value}"
+    },
+    {
+        "id": "MOVE_TO_AIM",
+        "text": "移動來瞄準"
+    },
+    {
+        "id": "MUSIC_CHECKBOX",
+        "text": "音樂"
+    },
+    {
+        "id": "New highscore!",
+        "text": "新最高分！"
+    },
+    {
+        "id": "OK_BTN",
+        "text": "確定"
+    },
+    {
+        "id": "RATE_WINDOW_CAPTION",
+        "text": "你喜歡遊戲嗎？"
+    },
+    {
+        "id": "RATE_WINDOW_HINT",
+        "text": "請選擇一些星星"
+    },
+    {
+        "id": "RATE_WINDOW_QUESTION",
+        "text": "給予我們評價的話，我們會非常開心！"
+    },
+    {
+        "id": "RATE_WINDOW_RATE_BUTTON",
+        "text": "給予我們評價"
+    },
+    {
+        "id": "REMOVE_ADS_WINDOW_BUTTON",
+        "text": "移除廣告"
+    },
+    {
+        "id": "RESTART_LEVEL_BTN",
+        "text": "重置等級"
+    },
+    {
+        "id": "RESTORE_PURCHASES",
+        "text": "恢復消費"
+    },
+    {
+        "id": "SOUND_CHECKBOX",
+        "text": "聲音"
+    },
+    {
+        "id": "TAP_TO_SHOOT",
+        "text": "點擊來射擊"
+    },
+    {
+        "id": "VIBRATION_CHECKBOX",
+        "text": "震動"
+    },
+    {
+        "id": "WIN_WINDOW_BEST_SCORE",
+        "text": "最佳：{value}"
+    },
+    {
+        "id": "WIN_WINDOW_CAPTION",
+        "text": "恭喜！"
+    },
+    {
+        "id": "WIN_WINDOW_NEW_HIGHSCORE",
+        "text": "你取得了最高分！"
+    },
+    {
+        "id": "WIN_WINDOW_NEXT_LEVEL_BTN",
+        "text": "再次遊玩"
+    },
+    {
+        "id": "WIN_WINDOW_REWARDED_VIDEO_BTN",
+        "text": "繼續"
+    },
+    {
+        "id": "WIN_WINDOW_SKIP_AD",
+        "text": "不用了，謝謝"
+    },
+    {
+        "id": "WIN_WINDOW_YOUR_SCORE",
+        "text": "你的分數：{value}"
+    },
+    {
+        "id": "gdpr_warning",
+        "text": "我們更新了我們的合約條款."
+    },
+    {
+        "id": "gdpr_description",
+        "text": "點擊即表示您同意服務條款"
+    },
+    {
+        "id": "gdpr_terms_of_service",
+        "text": "使用條款"
+    },
+    {
+        "id": "gdpr_privacy_policy",
+        "text": "隱私條款"
+    },
+    {
+        "id": "accept",
+        "text": "接受"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_1",
+        "text": "不想再看見廣告了嗎？"
+    },
+    {
+        "id": "ADS_WINDOW_CAPTION_2",
+        "text": "立即永久關閉它們！"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_CAPTION",
+        "text": "新立方體！"
+    },
+    {
+        "id": "NEW_CUBE_CREATED_REWARD",
+        "text": "獎勵："
+    },
+    {
+        "id": "NEW_CUBE_CREATED_GET_ITEM_CAPTION",
+        "text": "觀看廣告，獎勵翻倍"
+    },
+    {
+        "id": "LOSE_WINDOW_REVIVE",
+        "text": "繼續"
+    },
+    {
+        "id": "YES_BUTTON",
+        "text": "是"
+    },
+    {
+        "id": "NO_BUTTON",
+        "text": "否"
+    },
+    {
+        "id": "QUIT_WARNING",
+        "text": "您正要退出遊戲。您確定嗎？"
+    },
+    {
+        "id": "HIGH_SCORE",
+        "text": "最佳"
+    },
+    {
+        "id": "BACKGROUND",
+        "text": "背景"
+    },
+    {
+        "id": "BOARD",
+        "text": "平面滑動遊戲"
+    },
+    {
+        "id": "PACK",
+        "text": "禮包"
+    },
+    {
+        "id": "APPLY",
+        "text": "套用"
+    },
+    {
+        "id": "PACK_UNLOCK_ALL",
+        "text": "解鎖全部！"
+    },
+    {
+        "id": "PACK_STANDARD",
+        "text": "標準"
+    },
+    {
+        "id": "PACK_HOBBIES_PACK",
+        "text": "嗜好禮包"
+    },
+    {
+        "id": "PACK_NATURE_PACK",
+        "text": "自然禮包"
+    },
+    {
+        "id": "PACK_DONUTS",
+        "text": "甜甜圈"
+    },
+    {
+        "id": "PACK_DUCK",
+        "text": "鴨"
+    },
+    {
+        "id": "PACK_FOOTBALL",
+        "text": "足球"
+    },
+    {
+        "id": "PACK_CHESS",
+        "text": "西洋棋"
+    },
+    {
+        "id": "PACK_COURT_YARD",
+        "text": "庭院"
+    },
+    {
+        "id": "PACK_BEACH",
+        "text": "海灘"
+    },
+    {
+        "id": "PACK_SPACE",
+        "text": "太空"
+    },
+    {
+        "id": "PACK_SEALIFE",
+        "text": "海洋生物"
+    },
+    {
+        "id": "PACK_MOUNTAINS",
+        "text": "山脈"
+    },
+    {
+        "id": "PACK_VIDEOGAME",
+        "text": "電子遊戲"
+    },
+    {
+        "id": "YOU_GET",
+        "text": "你會獲得："
+    },
+    {
+        "id": "BUY_FOR",
+        "text": "購買價格"
+    },
+    {
+        "id": "UPGRADE_CUBES_HINT",
+        "text": "所有的「0」已變成了「1」。「0」號方塊已不在遊戲中"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_9",
+        "text": "太棒了！100 萬方塊已近在咫尺！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_10",
+        "text": "怎麼會？你是怎麼辦到的？"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_11",
+        "text": "還真是不可思議的分數啊！快繼續吧，打破紀錄！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_12",
+        "text": "哇！繼續努力啊！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_13",
+        "text": "誰會預料到呢！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_14",
+        "text": "如果你達成了 3200 萬分，我們得確認你是不是有服用刺激物了"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_15",
+        "text": "只有幾個人有辦法達成 6400 萬分，你會是其中一位嗎？"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_16",
+        "text": "你是人類嗎？"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_17",
+        "text": "繼續進行吧！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_18",
+        "text": "你真的有辦法達成 512m 嗎？"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_19",
+        "text": "你的執著真令人感到欽佩！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_20",
+        "text": "1b？不可能吧！！！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_21",
+        "text": "一定有個驗證碼吧。"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_22",
+        "text": "我不知道你是怎麼辦到的，但還真完美！"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_23",
+        "text": "若你達到 16b，就能來捏我。"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_24",
+        "text": "你到底是怎麼辦到的？"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_25",
+        "text": "若你繼續這麼下去，我們就會用光立方體了。"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_26",
+        "text": "我真不敢相信有人達到了 64b。"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_27",
+        "text": "達到 256b，就能取得科學文憑。"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_28",
+        "text": "從來沒有人達到 512b 過……"
+    },
+    {
+        "id": "BIG_CUBE_WINDOW_GRATS_29",
+        "text": "我想你銳不可擋呢！"
+    },
+    {
+        "id": "BOOSTER_TUTORIAL_CAPTION",
+        "text": "已可獲得新的強化道具！"
+    },
+    {
+        "id": "BOMB",
+        "text": "炸彈"
+    },
+    {
+        "id": "COLORCUBE",
+        "text": "色彩立方體"
+    },
+    {
+        "id": "BOMB_DESCRIPTION",
+        "text": "能破壞其觸碰的立方體"
+    },
+    {
+        "id": "COLORCUBE_DESCRIPTION",
+        "text": "接觸時，立方體的數值變為雙倍"
+    },
+    {
+        "id": "BUTTON_TRY",
+        "text": "快來試試吧"
+    },
+    {
+        "id": "STORE",
+        "text": "商店"
+    },
+    {
+        "id": "BEST_PRICE",
+        "text": "最佳價格"
+    },
+    {
+        "id": "GET",
+        "text": "取得"
+    },
+    {
+        "id": "FREE",
+        "text": "免費"
+    },
+    {
+        "id": "BOOSTER_DOUBLE",
+        "text": "雙倍強化道具"
+    },
+    {
+        "id": "BOOSTER_BOMB",
+        "text": "炸彈強化道具"
+    },
+    {
+        "id": "SUPER_COMBO",
+        "text": "超級連擊"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE",
+        "text": "搖晃"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAKE_DESCRIPTION",
+        "text": "立方體達到特定數值時，便會隨機排列。"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE",
+        "text": "改變形狀"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SHAPE_DESCRIPTION",
+        "text": "使用已改變形狀的立方體來遊玩。"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE",
+        "text": "不同尺寸"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SIZE_DESCRIPTION",
+        "text": "立方體的數值變得更大時，尺寸也會增加。"
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER",
+        "text": "達到"
+    },
+    {
+        "id": "EVENT_GOAL_CUBENUMBER_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES",
+        "text": "達到"
+    },
+    {
+        "id": "EVENT_GOAL_LAUNCHES_UNITS",
+        "text": "啟動"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES",
+        "text": "達到"
+    },
+    {
+        "id": "EVENT_GOAL_MERGES_UNITS",
+        "text": "合併"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS",
+        "text": "達到"
+    },
+    {
+        "id": "EVENT_GOAL_POINTS_UNITS",
+        "text": "積分"
+    },
+    {
+        "id": "EVENT_YOUR_GOAL",
+        "text": "您的目標："
+    },
+    {
+        "id": "GOT_IT",
+        "text": "知道了！"
+    },
+    {
+        "id": "MISSION_COMPLETE",
+        "text": "任務完成！"
+    },
+    {
+        "id": "EVENT_REWARD_THEME",
+        "text": "主題"
+    },
+    {
+        "id": "EVENT_OVER",
+        "text": "活動已結束！"
+    },
+    {
+        "id": "EVENT_OVER_DESCRIPTION",
+        "text": "全新挑戰很快就會開始。請稍後再回來！"
+    },
+    {
+        "id": "NEW",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE",
+        "text": "板形"
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOARDSHAPE_DESCRIPTION",
+        "text": "用彎曲的板子來玩，而不是普通的板子。"
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES",
+        "text": "冰冻立方体"
+    },
+    {
+        "id": "EVENT_GAMEMODE_FROZENCUBES_DESCRIPTION",
+        "text": "把冰打成小塊來移動它們。"
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE",
+        "text": "障礙物"
+    },
+    {
+        "id": "EVENT_GAMEMODE_OBSTACLE_DESCRIPTION",
+        "text": "計劃立方體的飛行軌跡以實現成功合併。"
+    },
+    {
+        "id": "EVENT_GAMEMODE_SKY_JUMP",
+        "text": "跳台滑雪"
+    },
+    {
+        "id": "WAIT",
+        "text": "等待中..."
+    },
+    {
+        "id": "NOADS_HINT",
+        "text": "移除廣告並獲得免費禮包"
+    },
+    {
+        "id": "",
+        "text": "購買"
+    },
+    {
+        "id": "EVENT_GOAL_BOXES",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GOAL_BOXES_UNITS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS",
+        "text": ""
+    },
+    {
+        "id": "EVENT_GAMEMODE_BOXES_NUMBERS_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "LEADERS",
+        "text": ""
+    },
+    {
+        "id": "SKINS",
+        "text": ""
+    },
+]
