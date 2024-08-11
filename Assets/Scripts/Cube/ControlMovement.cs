@@ -21,17 +21,15 @@ public class ControlMovement : MonoBehaviour
     [SerializeField] private GameObject aiming;
     public float minDragDistance = 5f;
 
+    private bool canShoot = true; // Cờ để kiểm soát việc bắn
+    public float shootCooldown = 0.7f; // Thời gian chờ giữa các lần bắn
+
+    //audio
+    public AudioSource boxShot1;
+    public AudioSource boxHit1;
     private void Awake()
     {
         instance = this;
-    }
-
-    private void Start()
-    {
-        if (mainCube == null)
-        {
-            mainCube = GetComponentInChildren<Cube>();
-        }
     }
 
     private void Update()
@@ -40,7 +38,7 @@ public class ControlMovement : MonoBehaviour
 
         if (Input.GetMouseButtonDown(0))
         {
-            if (!BombPanel.isButtonPressed && !JokerPanel.isButtonPressed && !BombAddButton.isButtonPressed && !JokerAddButton.isButtonPressed)
+            if (!SaveManager.instance.isButtonPressed)
             {
                 startTouchPosition = Input.mousePosition;
                 isDragging = true;
@@ -52,7 +50,10 @@ public class ControlMovement : MonoBehaviour
         {
             isDragging = false;
             isMoving = false;
-            ApplyForwardForce();
+            if (canShoot) // Kiểm tra cờ trước khi bắn
+            {
+                ApplyForwardForce();
+            }
         }
 
         if (Input.touchCount > 0)
@@ -60,7 +61,7 @@ public class ControlMovement : MonoBehaviour
             Touch touch = Input.GetTouch(0);
             if (touch.phase == TouchPhase.Began)
             {
-                if (!BombPanel.isButtonPressed && !JokerPanel.isButtonPressed && !BombAddButton.isButtonPressed && !JokerAddButton.isButtonPressed)
+                if (!SaveManager.instance.isButtonPressed)
                 {
                     startTouchPosition = touch.position;
                     isDragging = true;
@@ -71,7 +72,10 @@ public class ControlMovement : MonoBehaviour
             {
                 isDragging = false;
                 isMoving = false;
-                ApplyForwardForce();
+                if (canShoot) // Kiểm tra cờ trước khi bắn
+                {
+                    ApplyForwardForce();
+                }
             }
         }
 
@@ -91,11 +95,13 @@ public class ControlMovement : MonoBehaviour
             if (direction.magnitude > minDragDistance)
             {
                 isMoving = true;
-                Vector3 targetPosition = mainCube.transform.position + new Vector3(direction.x, 0, 0).normalized * moveSpeed * Time.deltaTime;
+
+                // Tính toán khoảng cách di chuyển và áp dụng trực tiếp
+                float moveAmount = direction.x / Screen.width * 4.5f; // Điều chỉnh giá trị này theo tỷ lệ màn hình
+                Vector3 targetPosition = mainCube.transform.position + new Vector3(moveAmount, 0, 0);
                 targetPosition.x = Mathf.Clamp(targetPosition.x, -1.78f, 1.75f);
 
-                // Sử dụng Lerp để di chuyển mượt mà
-                mainCube.transform.position = Vector3.Lerp(mainCube.transform.position, targetPosition, Time.deltaTime * moveSpeed);
+                mainCube.transform.position = targetPosition;
 
                 startTouchPosition = currentTouchPosition;
             }
@@ -113,12 +119,26 @@ public class ControlMovement : MonoBehaviour
 
     private void ApplyForwardForce()
     {
+        StartCoroutine(MainCubeCheckCollision(mainCube));
         if (mainCube == null) return; // Thêm kiểm tra để tránh NullReferenceException
 
         mainCube.CubeRigidbody.velocity = new Vector3(mainCube.CubeRigidbody.velocity.x, mainCube.CubeRigidbody.velocity.y, force);
         mainCube.CubeRigidbody.AddForce(Vector3.forward * force, ForceMode.Impulse);
         Destroy(aiming);
+        boxShot1.Play();
+        Invoke("BoxHit1", 0.5f);
         Invoke("SpawnNewCube", 0.5f);
+        // Đặt cờ canShoot thành false và thiết lập lại sau thời gian chờ
+        canShoot = false;
+        Invoke("ResetShoot", shootCooldown);
+    }
+    private void BoxHit1()
+    {
+        boxHit1.Play();
+    }
+    private void ResetShoot()
+    {
+        canShoot = true;
     }
 
     public void SpawnNewBomb()
@@ -131,17 +151,29 @@ public class ControlMovement : MonoBehaviour
     private void SpawnNewCube()
     {
         mainCube = CubeSpawnController.Instance.SpawnRandom();
+        mainCube.isMainCube = true;
         //Dotween xuat hien cube
-        mainCube.transform.localScale = Vector3.zero; 
+        mainCube.transform.localScale = Vector3.zero;
 
         mainCube.transform.DOScale(1, 0.3f).SetEase(Ease.OutBounce);
         StartCoroutine(aim());
-
     }
+
+    public void SpawnMainCube()
+    {
+        StartCoroutine(aim());
+    }
+
     IEnumerator aim()
     {
-        yield return new WaitForSeconds(0.3f);
+        yield return new WaitForSeconds(0.1f);
         aiming = Instantiate(aimingPrefab, mainCube.transform.position, mainCube.transform.rotation);
         aiming.transform.SetParent(mainCube.transform);
+    }
+
+    IEnumerator MainCubeCheckCollision(Cube cube)
+    {
+        yield return new WaitForSeconds(1.5f);
+        cube.isMainCube = false;
     }
 }

@@ -226,6 +226,8 @@ MonoBehaviour:
   CubeNumber: 0
   CubeRigidbody: {fileID: 0}
   cubeNew: {fileID: 1058993274646552}
+  isImmune: 0
+  isMainCube: 0
 --- !u!114 &1350757548690954981
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -238,6 +240,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a9c5a2ada030624695300ad8c4bc08a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ScorePrefab: {fileID: 1727754715524807, guid: 2e342dcfd16449447a012b6846836b26, type: 3}
 --- !u!1 &1123978954053956
 GameObject:
   m_ObjectHideFlags: 0

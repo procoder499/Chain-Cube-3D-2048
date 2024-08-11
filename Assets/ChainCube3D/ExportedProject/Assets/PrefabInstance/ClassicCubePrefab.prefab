@@ -1043,7 +1043,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1871533205747280}
-  m_Material: {fileID: 13400000, guid: 5b3a375c3fa28bc45b2b0029cf6351bf, type: 2}
+  m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -1223,6 +1223,8 @@ MonoBehaviour:
   CubeNumber: 0
   CubeRigidbody: {fileID: 0}
   cubeNew: {fileID: 1951656665925804}
+  isImmune: 0
+  isMainCube: 0
 --- !u!114 &2990910597871226939
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1236,7 +1238,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentScore: 0
-  ScorePrefab: {fileID: 1462971025463743, guid: 816d63f97bd677a499178330f892991b, type: 3}
+  ScorePrefab: {fileID: 1727754715524807, guid: 2e342dcfd16449447a012b6846836b26, type: 3}
+  isMainCube: 0
+  RisingComboHit01: {fileID: 8300000, guid: eabff23dd388c7644a2198ba0b5ef118, type: 3}
 --- !u!1 &1905698468092105
 GameObject:
   m_ObjectHideFlags: 0

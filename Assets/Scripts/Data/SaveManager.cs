@@ -7,15 +7,18 @@ using UnityEngine;
 public class SaveManager : MonoBehaviour
 {
     public int highScore;
+    public int newMaxScore;
     public int currentScore;
 
-    public int bombCount;
+    public int bombCount = 5;
     public int jokerCount;
-    public bool[] WeaponUnlocked = new bool[6] { true, false, false, false, false, false };
 
-    public int currentLevel;
-    public bool[] levelUnlocked = new bool[5] { true, false, false, false, false };
+    public bool isButtonPressed;
+
+
+ //   public Transform[] intro = new Transform[16];
     public static SaveManager instance { get; private set; }
+
     private void Awake()
     {
         if (instance != null && instance != this)
@@ -35,18 +38,16 @@ public class SaveManager : MonoBehaviour
             PlayerData_Storage data = (PlayerData_Storage)bf.Deserialize(file);
 
             highScore = data.highScore;
+            newMaxScore = data.newMaxScore;
             currentScore = data.currentScore;
 
             bombCount = data.bombCount;
             jokerCount = data.jokerCount;
-            WeaponUnlocked = data.WeaponUnlocked;
-            currentLevel = data.currentLevel;
-            levelUnlocked = data.LevelUnlocked;
 
-            if (data.WeaponUnlocked == null)
-                WeaponUnlocked = new bool[6] { true, false, false, false, false, false };
-            if (data.LevelUnlocked == null)
-                levelUnlocked = new bool[5] { true, false, false, false, false };
+       //     intro = data.intro;
+            isButtonPressed = data.isButtonPressed;
+
+
             file.Close();
         }
     }
@@ -57,64 +58,44 @@ public class SaveManager : MonoBehaviour
         PlayerData_Storage data = new PlayerData_Storage();
 
         data.highScore = highScore;
+        data.newMaxScore = newMaxScore;
         data.currentScore = currentScore;
         data.bombCount = bombCount;
         data.jokerCount = jokerCount;
+     //   data.intro = intro;
+        data.isButtonPressed = isButtonPressed;
 
-        data.WeaponUnlocked = WeaponUnlocked;
-        data.currentLevel = currentLevel;
-        data.LevelUnlocked = levelUnlocked;
+
 
         bf.Serialize(file, data);
         file.Close();
     }
-    public int GetHighScore()
+    public void DeleteSaveFile()
     {
-        return highScore;
-    }
-    public void ChangeScore(int newScore)
-    {
-        highScore = newScore;
-        Save();
-    }
-    public bool GetWea(int _index)
-    {
-        return WeaponUnlocked[_index];
-    }
-    public void ChangeWea(int _index, bool value)
-    {
-        WeaponUnlocked[_index] = value;
-        Save();
-    }
-    public void ChangeLevel(int _index, bool value)
-    {
-        levelUnlocked[_index] = value;
-        Save();
-    }
-    public void ResetData()
-    {
-        if (File.Exists(UnityEngine.Application.persistentDataPath + "/playerInfo.dat"))
+        string path = UnityEngine.Application.persistentDataPath + "/playerInfo.dat";
+        if (File.Exists(path))
         {
-            File.Delete(UnityEngine.Application.persistentDataPath + "/playerInfo.dat");
+            File.Delete(path);
+            Debug.Log("Save file deleted.");
         }
-
-        currentScore = 0;
-        WeaponUnlocked = new bool[6] { true, false, false, false, false, false };
-
-        Save();
+        else
+        {
+            Debug.LogWarning("Save file does not exist.");
+        }
     }
+
 
     [System.Serializable]
     class PlayerData_Storage
     {
         public int highScore;
+        public int newMaxScore;
         public int currentScore;
         public int bombCount;
         public int jokerCount;
+        //public Transform[] intro;
+        public bool isButtonPressed;
 
-        public bool[] WeaponUnlocked = new bool[6];
 
-        public int currentLevel;
-        public bool[] LevelUnlocked = new bool[5];
     }
 }

@@ -15,6 +15,8 @@ public class CubeSpawnController : MonoBehaviour
     [SerializeField] private GameObject jokerPrefab;
     [SerializeField] private Color[] cubeColors;
     [HideInInspector] public int maxCubeNumber;
+
+    [SerializeField] private GameObject mainCube;
     // in our case it's 4096 (2^12)
 
     private int maxPower = 12;
@@ -29,6 +31,14 @@ public class CubeSpawnController : MonoBehaviour
         maxCubeNumber = (int)Mathf.Pow(2, maxPower);
 
         InitializeCubesQueue();
+    }
+    private void Start()
+    {
+        ControlMovement.instance.mainCube = SpawnRandom();
+        ControlMovement.instance.SpawnMainCube();
+        ControlMovement.instance.mainCube.isMainCube = true;
+
+        SaveManager.instance.isButtonPressed = false;
     }
 
     private void InitializeCubesQueue()
@@ -65,6 +75,7 @@ public class CubeSpawnController : MonoBehaviour
         cube.SetNumber(number);
         cube.SetColor(GetColor(number)); 
         cube.gameObject.SetActive(true);
+        cube.StartImmunity(0.5f);
         return cube;
     }
 
@@ -95,10 +106,18 @@ public class CubeSpawnController : MonoBehaviour
 
     public int GenerateRandomNumber()
     {
-        return (int)Mathf.Pow(2, Random.Range(1, 6));
+        if (SaveManager.instance.newMaxScore == 1024)
+        {
+            return (int)Mathf.Pow(2, Random.Range(2, 7));
+        }
+        else if (SaveManager.instance.newMaxScore == 2048)
+        {
+            return (int)Mathf.Pow(2, Random.Range(3, 8));
+        }
+        else  return (int)Mathf.Pow(2, Random.Range(1, 6));
     }
 
-    private Color GetColor(int number)
+    public Color GetColor(int number)
     {
         return cubeColors[(int)(Mathf.Log(number) / Mathf.Log(2)) - 1];
     }

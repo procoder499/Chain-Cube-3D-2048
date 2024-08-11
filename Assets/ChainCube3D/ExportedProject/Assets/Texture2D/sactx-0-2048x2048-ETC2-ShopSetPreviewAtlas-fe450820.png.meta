@@ -1,11 +1,9 @@
 fileFormatVersion: 2
 guid: dd8262d88b88f4248ae161ea54847c20
-timeCreated: 1720775386
-licenseType: Free
 TextureImporter:
-  serializedVersion: 12
   internalIDToNameTable: []
   externalObjects: {}
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -82,45 +80,281 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 524
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3169888f026ef754a98d7262d28dce6f
+      internalID: -964120048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df458d368bdcd9469f451ce5a09902c
+      internalID: -1001415347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 895
+        width: 524
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879b41098afb1c043bee8e069ee0c28e
+      internalID: -1473633522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_3
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1792
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987337bae300e4b4895dc7718f6ecfb0
+      internalID: 238260627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_4
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 896
+        width: 524
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8179ca89ee5d49d4791ff6617dc1a92c
+      internalID: 2082100962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_5
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1792
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b289a96526e09499c6bb58c6336cfa
+      internalID: 1560625095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_6
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 0
+        width: 298
+        height: 2044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3f3571a294e4344a9e67f3a372ed6d
+      internalID: 1893228263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 524
+        height: 893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5700f2f9f17984cb37eac994bc2a9e
+      internalID: 5567919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 524
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca2b043624942f42a87bb31f98d5fde
+      internalID: -1764656650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_9
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 524
+        height: 893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6182262435d601c4e85d2db0e3f2be23
+      internalID: -1826050555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID:
+    spriteID: d823c26574d5ebb429dcaf42c4cd2d5b
     internalID: 0
     vertices: []
-    indices: []
+    indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
-  mipmapLimitGroupName:
-  output:
-    textureImportInstructions:
-      compressedFormat: 0
-      uncompressedFormat: 0
-      desiredFormat: 0
-      usageMode: 0
-      colorSpace: 0
-      androidETC2FallbackFormat: 0
-      width: 0
-      height: 0
-      depth: 0
-      cubeIntermediateSize: 0
-      cubeMode: 0
-      cubeLayout: 0
-      compressionQuality: 0
-      androidETC2FallbackDownscale: 0
-      vtOnly: 0
-    sourceTextureInformation:
-      width: 0
-      height: 0
-      doesTextureContainAlpha: 0
-      sourceWasHDR: 0
-    importInspectorWarnings:
+    nameFileIdTable:
+      sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_0: -964120048
+      sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_1: -1001415347
+      sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_2: -1473633522
+      sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_3: 238260627
+      sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_4: 2082100962
+      sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_5: 1560625095
+      sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_6: 1893228263
+      sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_7: 5567919
+      sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_8: -1764656650
+      sactx-0-2048x2048-ETC2-ShopSetPreviewAtlas-fe450820_9: -1826050555
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  userData:
-  assetBundleName:
-  assetBundleVariant:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

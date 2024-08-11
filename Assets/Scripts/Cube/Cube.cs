@@ -15,6 +15,8 @@ public class Cube : MonoBehaviour
 
     public GameObject cubeNew;
     private MeshRenderer cubeMeshRenderer;
+    public bool isImmune = false;
+    public bool isMainCube = false;
     void Start()
     {
 
@@ -51,5 +53,16 @@ public class Cube : MonoBehaviour
     {
         yield return new WaitForSeconds(0.3f);
         FX.Instance.PlayCubeExplosionFX(transform.position);
+    }
+    public void StartImmunity(float duration)
+    {
+        StartCoroutine(ImmunityCoroutine(duration));
+    }
+
+    private IEnumerator ImmunityCoroutine(float duration)
+    {
+        isImmune = true;
+        yield return new WaitForSeconds(duration);
+        isImmune = false;
     }
 }
